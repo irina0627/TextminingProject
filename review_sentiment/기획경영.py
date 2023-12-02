@@ -19,19 +19,21 @@ for kw in keyword:
     data_by_keyword = {}
     combined = {}
 
-    with open(f'./reviewdataset/review_by_job_theme/기획경영_pos_{kw}.pkl', 'rb') as t:
-        개발_pos_data = pickle.load(t)
-        data_by_keyword[f'기획경영_pos_{kw}_data'] = 개발_pos_data
 
-    with open(f'./reviewdataset/review_by_job_theme/기획경영_neg_{kw}.pkl', 'rb') as f:
-        개발_neg_data = pickle.load(f)
-        data_by_keyword[f'기획경영_neg_{kw}_data'] = 개발_neg_data
+    with open(f'./review_sentiment/review_by_job_theme/기획경영_pos_{kw}.pkl', 'rb') as t:
+        기획경영_pos_data = pickle.load(t)
+        data_by_keyword[f'기획경영_pos_{kw}_data'] = 기획경영_pos_data
+
+    with open(f'./review_sentiment/review_by_job_theme/기획경영_neg_{kw}.pkl', 'rb') as f:
+        기획경영_neg_data = pickle.load(f)
+        data_by_keyword[f'기획경영_neg_{kw}_data'] = 기획경영_neg_data
 
     combined[f'_기획경영_{kw}_data'] = data_by_keyword[f'기획경영_pos_{kw}_data'] + data_by_keyword[f'기획경영_neg_{kw}_data']
     print(len(combined[f'_기획경영_{kw}_data']))
 
     # Save second values in a text file
     second_values = []
+    
     for data_point in combined[f'_기획경영_{kw}_data']:
         tokens = tokenizer(data_point, padding=True, truncation=True, return_tensors="pt")
         with torch.no_grad():

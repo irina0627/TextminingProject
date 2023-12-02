@@ -19,11 +19,11 @@ for kw in keyword:
     data_by_keyword = {}
     combined = {}
 
-    with open(f'./reviewdataset/review_by_job_theme/개발_pos_{kw}.pkl', 'rb') as t:
+    with open(f'./reviewdataset/review_posneg_theme_byjob/개발_pos_{kw}.pkl', 'rb') as t:
         개발_pos_data = pickle.load(t)
         data_by_keyword[f'개발_pos_{kw}_data'] = 개발_pos_data
 
-    with open(f'./reviewdataset/review_by_job_theme/개발_neg_{kw}.pkl', 'rb') as f:
+    with open(f'./reviewdataset/review_posneg_theme_byjob/개발_neg_{kw}.pkl', 'rb') as f:
         개발_neg_data = pickle.load(f)
         data_by_keyword[f'개발_neg_{kw}_data'] = 개발_neg_data
 

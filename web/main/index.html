@@ -100,6 +100,7 @@
     <!-- Custom styles for this template -->
     <link href="index.css" rel="stylesheet">
   </head>
+  <!--개발 - CTO직무-->
   <body class="bg-body-tertiary">
     <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
       <symbol id="check2" viewBox="0 0 16 16">
@@ -192,8 +193,8 @@
         <path fill-rule="evenodd" d="M11.5 1.246c.832-.855 2.913.642 0 2.566-2.913-1.924-.832-3.421 0-2.566ZM9 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Zm-9 8c0 1 1 1 1 1h10s1 0 1-1-1-4-6-4-6 3-6 4Zm13.5-8.09c1.387-1.425 4.855 1.07 0 4.277-4.854-3.207-1.387-5.702 0-4.276ZM15 2.165c.555-.57 1.942.428 0 1.711-1.942-1.283-.555-2.281 0-1.71Z"/>
       </svg>
       <div class="lh-1">
-        <h1 class="h4 mb-0 text-white lh-sm fw-bold">직무 성향 파악</h1>
-        <small>리뷰 감정분석 및 요약 정보 제공</small>
+        <h1 class="h4 mb-0 text-white lh-sm fw-bold">직무 성향</h1>
+        <small>기업리뷰 데이터를 통한 테마별 감성분석 스코어 및 요약 정보 제공</small>
       </div>
     </div>
 
@@ -213,7 +214,7 @@
             </a>
             <ul class="list-unstyled ps-0">
               <li class="mb-1">
-                <button class="btn btn-light d-inline-flex align-items-center rounded border-0 mb-2">
+                <button class="btn btn-light d-inline-flex align-items-center rounded border-0 mb-2 active">
                   <dt>개발</dt>
                 </button>
                 <button class="btn btn-light d-inline-flex align-items-center rounded border-0 mb-2">
@@ -231,7 +232,7 @@
                 <button class="btn btn-light d-inline-flex align-items-center rounded border-0 mb-2">
                   <dt>디자인</dt>
                 </button>
-                <button class="btn btn-light d-inline-flex align-items-center rounded border-0 mb-2">
+                <button class="btn btn-light d-inline-flex align-items-center rounded border-0 mb-2" onclick="location.href='../marketing/crm.html'">
                   <dt>마케팅/시장조사</dt>
                 </button>
                 <button class="btn btn-light d-inline-flex align-items-center rounded border-0 mb-2">
@@ -284,42 +285,20 @@
           <!-- 분석1: 리뷰 감정분석 및 요약 -->
           <div class="col-md-12">
           <div class="my-3 p-3 bg-body rounded shadow-sm">
-              <h5 class="border-bottom pb-2 mb-0 fw-bold">테마별 감성분석 및 한 줄 요약</h5>
+              <h5 class="border-bottom pb-2 mb-0 fw-bold">직무의 테마별 감성분석</h5>
 
               <!--테마별 감정분석-->
+              <!--progress-->
               <div class="row">
                 <!--1. balance: 워라밸-->
                 <div class="col-md-3">
                   <p class="fs-5 ml-0 mb-1 mt-3 d-block">업무와 삶의 균형</p>
                   <div class="col p-2">
                     <!--score-->
-                    <h2>67<small class="fw-light">/100</small></h2>
-      
+                    <h2><p class='d-inline' id="score_balance"></p><small class="fw-light">/100</small></h2>
                     <!-- progress bar -->
                     <div class="progress" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="height: 30px">
-                      <div class="progress-bar" style="width:67%"><p class="text-center fs-6"></p></div>
-                    </div>
-                    
-                    <!-- 장점 -->
-                    <div class="d-flex pt-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-smile-fill me-2" viewBox="0 0 16 16">
-                        <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5M4.285 9.567a.5.5 0 0 1 .683.183A3.498 3.498 0 0 0 8 11.5a3.498 3.498 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.498 4.498 0 0 1 8 12.5a4.498 4.498 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683M10 8c-.552 0-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5S10.552 8 10 8"/>
-                      </svg>
-                      <p class="pb-3 mb-0 small lh-sm border-bottom">
-                        <strong class="d-block fs-6 mb-1">장점</strong>
-                        장점 요약 문장 1개 보여주기
-                      </p>
-                    </div>
-      
-                    <!-- 단점 -->
-                    <div class="d-flex pt-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-frown-fill me-2" viewBox="0 0 16 16">
-                        <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m-2.715 5.933a.5.5 0 0 1-.183-.683A4.498 4.498 0 0 1 8 9.5a4.5 4.5 0 0 1 3.898 2.25.5.5 0 0 1-.866.5A3.498 3.498 0 0 0 8 10.5a3.498 3.498 0 0 0-3.032 1.75.5.5 0 0 1-.683.183M10 8c-.552 0-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5S10.552 8 10 8"/>
-                      </svg>
-                      <p class="pb-3 mb-0 small lh-sm border-bottom">
-                        <strong class="d-block fs-6 mb-1">단점</strong>
-                        장점 요약 문장 1개 보여주기
-                      </p>
+                      <div id='progress_balance' class="progress-bar" style="width:67%"><p class="text-center fs-6"></p></div>
                     </div>
                   </div>
                 </div>
@@ -329,33 +308,10 @@
                   <p class="fs-5 ml-0 mb-1 mt-3 d-block">복지</p>
                   <div class="col p-2">
                     <!--score-->
-                    <h2>67<small class="fw-light">/100</small></h2>
-      
+                    <h2><p class='d-inline' id="score_benefit"></p><small class="fw-light">/100</small></h2>
                     <!-- progress bar -->
                     <div class="progress" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="height: 30px">
-                      <div class="progress-bar" style="width:67%"><p class="text-center fs-6"></p></div>
-                    </div>
-                    
-                    <!-- 장점 -->
-                    <div class="d-flex pt-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-smile-fill me-2" viewBox="0 0 16 16">
-                        <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5M4.285 9.567a.5.5 0 0 1 .683.183A3.498 3.498 0 0 0 8 11.5a3.498 3.498 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.498 4.498 0 0 1 8 12.5a4.498 4.498 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683M10 8c-.552 0-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5S10.552 8 10 8"/>
-                      </svg>
-                      <p class="pb-3 mb-0 small lh-sm border-bottom">
-                        <strong class="d-block fs-6 mb-1">장점</strong>
-                        장점 요약 문장 1개 보여주기
-                      </p>
-                    </div>
-      
-                    <!-- 단점 -->
-                    <div class="d-flex pt-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-frown-fill me-2" viewBox="0 0 16 16">
-                        <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m-2.715 5.933a.5.5 0 0 1-.183-.683A4.498 4.498 0 0 1 8 9.5a4.5 4.5 0 0 1 3.898 2.25.5.5 0 0 1-.866.5A3.498 3.498 0 0 0 8 10.5a3.498 3.498 0 0 0-3.032 1.75.5.5 0 0 1-.683.183M10 8c-.552 0-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5S10.552 8 10 8"/>
-                      </svg>
-                      <p class="pb-3 mb-0 small lh-sm border-bottom">
-                        <strong class="d-block fs-6 mb-1">단점</strong>
-                        장점 요약 문장 1개 보여주기
-                      </p>
+                      <div id='progress_benefit' class="progress-bar" style="width:67%"><p class="text-center fs-6"></p></div>
                     </div>
                   </div>
                 </div>
@@ -365,33 +321,11 @@
                   <p class="fs-5 ml-0 mb-1 mt-3 d-block">분위기</p>
                   <div class="col p-2">
                     <!--score-->
-                    <h2>67<small class="fw-light">/100</small></h2>
+                    <h2><p class='d-inline' id="score_environment"></p><small class="fw-light">/100</small></h2>
       
                     <!-- progress bar -->
                     <div class="progress" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="height: 30px">
-                      <div class="progress-bar" style="width:67%"><p class="text-center fs-6"></p></div>
-                    </div>
-                    
-                    <!-- 장점 -->
-                    <div class="d-flex pt-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-smile-fill me-2" viewBox="0 0 16 16">
-                        <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5M4.285 9.567a.5.5 0 0 1 .683.183A3.498 3.498 0 0 0 8 11.5a3.498 3.498 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.498 4.498 0 0 1 8 12.5a4.498 4.498 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683M10 8c-.552 0-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5S10.552 8 10 8"/>
-                      </svg>
-                      <p class="pb-3 mb-0 small lh-sm border-bottom">
-                        <strong class="d-block fs-6 mb-1">장점</strong>
-                        장점 요약 문장 1개 보여주기
-                      </p>
-                    </div>
-      
-                    <!-- 단점 -->
-                    <div class="d-flex pt-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-frown-fill me-2" viewBox="0 0 16 16">
-                        <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m-2.715 5.933a.5.5 0 0 1-.183-.683A4.498 4.498 0 0 1 8 9.5a4.5 4.5 0 0 1 3.898 2.25.5.5 0 0 1-.866.5A3.498 3.498 0 0 0 8 10.5a3.498 3.498 0 0 0-3.032 1.75.5.5 0 0 1-.683.183M10 8c-.552 0-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5S10.552 8 10 8"/>
-                      </svg>
-                      <p class="pb-3 mb-0 small lh-sm border-bottom">
-                        <strong class="d-block fs-6 mb-1">단점</strong>
-                        장점 요약 문장 1개 보여주기
-                      </p>
+                      <div id='progress_environment' class="progress-bar" style="width:67%"><p class="text-center fs-6"></p></div>
                     </div>
                   </div>
                 </div>
@@ -401,37 +335,106 @@
                   <p class="fs-5 ml-0 mb-1 mt-3 d-block">연봉</p>
                   <div class="col p-2">
                     <!--score-->
-                    <h2>67<small class="fw-light">/100</small></h2>
+                    <h2><p class='d-inline' id="score_salary"></p><small class="fw-light">/100</small></h2>
       
                     <!-- progress bar -->
                     <div class="progress" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="height: 30px">
-                      <div class="progress-bar" style="width:67%"><p class="text-center fs-6"></p></div>
-                    </div>
-                    
-                    <!-- 장점 -->
-                    <div class="d-flex pt-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-smile-fill me-2" viewBox="0 0 16 16">
-                        <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5M4.285 9.567a.5.5 0 0 1 .683.183A3.498 3.498 0 0 0 8 11.5a3.498 3.498 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.498 4.498 0 0 1 8 12.5a4.498 4.498 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683M10 8c-.552 0-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5S10.552 8 10 8"/>
-                      </svg>
-                      <p class="pb-3 mb-0 small lh-sm border-bottom">
-                        <strong class="d-block fs-6 mb-1">장점</strong>
-                        장점 요약 문장 1개 보여주기
-                      </p>
-                    </div>
-      
-                    <!-- 단점 -->
-                    <div class="d-flex pt-3">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-frown-fill me-2" viewBox="0 0 16 16">
-                        <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m-2.715 5.933a.5.5 0 0 1-.183-.683A4.498 4.498 0 0 1 8 9.5a4.5 4.5 0 0 1 3.898 2.25.5.5 0 0 1-.866.5A3.498 3.498 0 0 0 8 10.5a3.498 3.498 0 0 0-3.032 1.75.5.5 0 0 1-.683.183M10 8c-.552 0-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5S10.552 8 10 8"/>
-                      </svg>
-                      <p class="pb-3 mb-0 small lh-sm border-bottom">
-                        <strong class="d-block fs-6 mb-1">단점</strong>
-                        장점 요약 문장 1개 보여주기
-                      </p>
+                      <div id='progress_salary' class="progress-bar" style="width:67%"><p class="text-center fs-6"></p></div>
                     </div>
                   </div>
                 </div>
               </div>
+
+              <!--positive-->
+              <div class="row p-2">
+                <!-- balance 장점 -->
+                <div class="col-md-3">
+                  <div class="d-flex pt-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-smile mb-2" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+                      <path d="M4.285 9.567a.5.5 0 0 1 .683.183A3.498 3.498 0 0 0 8 11.5a3.498 3.498 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.498 4.498 0 0 1 8 12.5a4.498 4.498 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m4 0c0 .828-.448 1.5-1 1.5s-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5"/>
+                    </svg>
+                  </div>
+                  <p class="pb-3 mb-0 small lh-sm">회사 위치가 좋고 사람들이 무난하고 서울 중심에 위치해 출퇴근이 편리하며 연차를 자유롭게 쓸 수 있고 헬스케어라는 복지가 있다.</p>
+                </div>
+                <!-- benefit -->
+                <div class="col-md-3">
+                  <div class="d-flex pt-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-smile mb-2" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+                      <path d="M4.285 9.567a.5.5 0 0 1 .683.183A3.498 3.498 0 0 0 8 11.5a3.498 3.498 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.498 4.498 0 0 1 8 12.5a4.498 4.498 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m4 0c0 .828-.448 1.5-1 1.5s-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5"/>
+                    </svg>
+                  </div>
+                  <p class="pb-3 mb-0 small lh-sm">연차를 눈치 보지 않고 쓸 수 있고 체력단련 휴가를 더 주며 매년 복지포인트를 지급한다.</p>
+                </div>
+                <!--environment-->
+                <div class="col-md-3">
+                  <div class="d-flex pt-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-smile mb-2" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+                      <path d="M4.285 9.567a.5.5 0 0 1 .683.183A3.498 3.498 0 0 0 8 11.5a3.498 3.498 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.498 4.498 0 0 1 8 12.5a4.498 4.498 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m4 0c0 .828-.448 1.5-1 1.5s-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5"/>
+                    </svg>
+                  </div>
+                  <p class="pb-3 mb-0 small lh-sm">회사 분위기가 좋은 편이며 육아병행할 수 있는 제도를 사용할 수 있고 자유로운 분위기이며 자신이 할 일만 하면 크게 터치당할 일이 없다.</p>
+                </div>
+                <!--salary-->
+                <div class="col-md-3">
+                  <div class="d-flex pt-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-smile mb-2" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+                      <path d="M4.285 9.567a.5.5 0 0 1 .683.183A3.498 3.498 0 0 0 8 11.5a3.498 3.498 0 0 0 3.032-1.75.5.5 0 1 1 .866.5A4.498 4.498 0 0 1 8 12.5a4.498 4.498 0 0 1-3.898-2.25.5.5 0 0 1 .183-.683M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m4 0c0 .828-.448 1.5-1 1.5s-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5"/>
+                    </svg>
+                  </div>
+                  <p class="pb-3 mb-0 small lh-sm">칼퇴 가능한 부서가 많고 하급자가 다니기에 문화가 편함 내부 분위기 비교적 자유롭고 연봉도 나쁘지 않은 수준이다.</p>
+                </div>
+
+              </div>
+
+              <!--negative-->
+              <div class="row p-2">
+                <!--balance-->
+                <div class="col-md-3">
+                  <div class="d-flex pt-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-frown mb-2" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+                      <path d="M4.285 12.433a.5.5 0 0 0 .683-.183A3.498 3.498 0 0 1 8 10.5c1.295 0 2.426.703 3.032 1.75a.5.5 0 0 0 .866-.5A4.498 4.498 0 0 0 8 9.5a4.5 4.5 0 0 0-3.898 2.25.5.5 0 0 0 .183.683M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m4 0c0 .828-.448 1.5-1 1.5s-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5"/>
+                    </svg>
+                  </div>
+                  <p class="pb-3 mb-0 small lh-sm">대기업의 단점 과 스타트업 단점이 있는곳 부서간 이해관계나 금융업계의 보수적인 업무처리 방식등이 단점으로 생각된다.</p>
+                </div>
+                <!--benefit-->
+                <div class="col-md-3">
+                  <div class="d-flex pt-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-frown mb-2" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+                      <path d="M4.285 12.433a.5.5 0 0 0 .683-.183A3.498 3.498 0 0 1 8 10.5c1.295 0 2.426.703 3.032 1.75a.5.5 0 0 0 .866-.5A4.498 4.498 0 0 0 8 9.5a4.5 4.5 0 0 0-3.898 2.25.5.5 0 0 0 .183.683M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m4 0c0 .828-.448 1.5-1 1.5s-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5"/>
+                    </svg>
+                  </div>
+                  <p class="pb-3 mb-0 small lh-sm">사내 복지를 못 누린다고 생각하면 되고 정규직은 시장 평균 연봉에 못미치는 경우가 대다수이다.</p>
+                </div>
+                <!--environment-->
+                <div class="col-md-3">
+                  <div class="d-flex pt-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-frown mb-2" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+                      <path d="M4.285 12.433a.5.5 0 0 0 .683-.183A3.498 3.498 0 0 1 8 10.5c1.295 0 2.426.703 3.032 1.75a.5.5 0 0 0 .866-.5A4.498 4.498 0 0 0 8 9.5a4.5 4.5 0 0 0-3.898 2.25.5.5 0 0 0 .183.683M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m4 0c0 .828-.448 1.5-1 1.5s-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5"/>
+                    </svg>
+                  </div>
+                  <p class="pb-3 mb-0 small lh-sm">스타트업의 단점과 기존 금융사 단점이 적절히 합쳐져서 시작한지 얼마 되지 않아 체계가 없고 복지가 안 좋으며 성과가 적고 직원들한테 돌아오는 게 적은 느낌이 든다.</p>
+                </div>
+                <!--salary-->
+                <div class="col-md-3">
+                  <div class="d-flex pt-3">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-emoji-frown mb-2" viewBox="0 0 16 16">
+                      <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+                      <path d="M4.285 12.433a.5.5 0 0 0 .683-.183A3.498 3.498 0 0 1 8 10.5c1.295 0 2.426.703 3.032 1.75a.5.5 0 0 0 .866-.5A4.498 4.498 0 0 0 8 9.5a4.5 4.5 0 0 0-3.898 2.25.5.5 0 0 0 .183.683M7 6.5C7 7.328 6.552 8 6 8s-1-.672-1-1.5S5.448 5 6 5s1 .672 1 1.5m4 0c0 .828-.448 1.5-1 1.5s-1-.672-1-1.5S9.448 5 10 5s1 .672 1 1.5"/>
+                    </svg>
+                  </div>
+                  <p class="pb-3 mb-0 small lh-sm">금융권 치고 낮은 연봉 부서마다 분위기가 너무 다름 업무 프로세스도 비효율 본부 별 협업 및 의사소통 비원활 금융권 치고 낮은 연봉 부서마다 분위기가 너무 다름 업무강도 복불복인 것 같음</p>
+                </div>
+              </div>
+
+
               
           </div>
           </div>
@@ -449,7 +452,7 @@
         </svg>
         <div class="lh-1">
           <h1 class="h4 mb-0 text-white lh-sm fw-bold">직무 분석</h1>
-          <small>공고 키워드 추출 및 요약 정보</small>
+          <small>직무별 채용공고 데이터를 통한 키워드 추출 및 요약 정보 제공</small>
         </div>
       </div>
 
@@ -468,12 +471,12 @@
               </a>
               <ul class="list-unstyled ps-0">
                 <li class="mb-1">
-                  <button class="btn btn-toggle d-inline-flex align-items-center rounded border-0 collapsed" data-bs-toggle="collapse" data-bs-target="#dev-collapse" aria-expanded="false">
+                  <button class="btn btn-toggle d-inline-flex align-items-center rounded border-0 collapsed" data-bs-toggle="collapse" data-bs-target="#dev-collapse" aria-expanded="true">
                     개발
                   </button>
-                  <div class="collapse" id="dev-collapse"> <!-- class="collapse show" -->
+                  <div class="collapse show" id="dev-collapse"> <!-- class="collapse show" -->
                     <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-                      <li><a href="#" class="link-body-emphasis d-inline-flex text-decoration-none rounded">CTO (Chief Technology Officer)</a></li>
+                      <li><a href="#" class="link-body-emphasis d-inline-flex text-decoration-none rounded active">CTO (Chief Technology Officer)</a></li>
                       <li><a href="#" class="link-body-emphasis d-inline-flex text-decoration-none rounded">DBA(Database Admin.)</a></li>
                       <li><a href="#" class="link-body-emphasis d-inline-flex text-decoration-none rounded">ERP</a></li>
                       <li><a href="#" class="link-body-emphasis d-inline-flex text-decoration-none rounded">iOS 개발</a></li>
@@ -601,7 +604,7 @@
                   </button>
                   <div class="collapse" id="marketing-collapse">
                     <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-                      <li><a href="#" class="link-body-emphasis d-inline-flex text-decoration-none rounded">CRM</a></li>
+                      <li><a href="../marketing/crm.html" class="link-body-emphasis d-inline-flex text-decoration-none rounded">CRM</a></li>
                       <li><a href="#" class="link-body-emphasis d-inline-flex text-decoration-none rounded">마케팅</a></li>
                       <li><a href="#" class="link-body-emphasis d-inline-flex text-decoration-none rounded">마케팅커뮤니케이션</a></li>
                       <li><a href="#" class="link-body-emphasis d-inline-flex text-decoration-none rounded">브랜드마케팅</a></li>
@@ -867,7 +870,7 @@
             <!-- 분석1:키워드 top 10 -->
             <div class="col-md-12">
             <div class="my-3 p-3 bg-body rounded shadow-sm">
-                <h5 class="border-bottom pb-2 mb-0 fw-bold">Top10 Keywords from job info</h5>
+                <h5 class="border-bottom pb-2 mb-0 fw-bold">직무의 인기 키워드 Top 10</h5>
 
                 <!-- keywords -->
                 <div class="col p-2">
@@ -952,7 +955,7 @@
             <!-- 분석2: 한 줄 요약 -->
             <div class="col-md-12">
               <div class="my-3 p-3 bg-body rounded shadow-sm">
-                  <h5 class="border-bottom pb-2 mb-0 fw-bold">공고(주요업무, 자격요건및우대사항) 요약</h5>
+                  <h5 class="border-bottom pb-2 mb-0 fw-bold">주요업무와 자격요건 및 우대사항</h5>
                   <div class="col p-2">
                     <div class="d-flex pt-3">
                       <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-journals me-2" viewBox="0 0 16 16">
@@ -961,8 +964,7 @@
                       </svg>
                       <p class="pb-3 mb-0 small lh-sm border-bottom">
                         <strong class="d-block fs-6 mb-1">주요업무</strong>
-                        Some representative placeholder content, with some information about this user. Imagine this being some sort of status update, perhaps?
-                      </p>
+                        백엔드 시스템 개발과 운영을 담당하는 Who We AreSaaS Platform 팀은 SSPSupplySide Platform의 백엔드 시스템 개발과 운영을 담당한다.                      </p>
                     </div>
                     <div class="d-flex pt-3">
                       <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-journals me-2" viewBox="0 0 16 16">
@@ -971,7 +973,7 @@
                       </svg>                  
                       <p class="pb-3 mb-0 small lh-sm border-bottom">
                         <strong class="d-block fs-6 mb-1">자격요건 및 우대사항</strong>
-                        Some more representative placeholder content, related to this other user. Another status update, perhaps.
+                        하나 이상의 서버 프로그래밍 언어에 능숙하며 테스트하기 좋은 코드를 작성하고 문제 해결 후 재발 방지를 위한 해법을 고민한다.
                       </p>
                     </div>
                   </div>
@@ -981,46 +983,49 @@
             <!-- 정보3: 관련 회사 공고 리스트업 -->
             <div class="col-md-12">
               <div class="my-3 p-3 bg-body rounded shadow-sm">
-                  <h5 class="border-bottom pb-2 fw-bold">관련 회사 공고 리스트업</h5>
+                  <h5 class="border-bottom pb-2 fw-bold">관련 채용공고 알아보기</h5>
                   
                     <!-- 회사 카드 리스트 -->
                     <div class="col p-2">
                       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-                        <!--카드1-->
+                        <!--카드-->
                         <div class="col">
                           <div class="card shadow-sm">
-                            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+                            <img src="https://jpassets.jobplanet.co.kr/production/uploads/job/posting_cover_image/file/86477/cropped_medium_cropped_medium_cropped_medium_cropped_medium_210414_Wanted%20banner%20Thumbnail_1080x790.png">
                             <div class="card-body">
-                              <p class="card-text"><b>회사명</b></p>
-                              <p class="card-text">skills list</p>
+                              <p class="card-text"><b>(주)버즈빌</b></p>
+                              <p class="card-text"><b>서버 엔지니어</b></p>
+                              <p class="card-text">python</p>
                               <div class="d-flex justify-content-between align-items-center">
-                                  <button type="button" class="w-100 btn btn-sm btn-outline-secondary">공고 자세히 보기</button>
+                                  <button type="button" class="w-100 btn btn-sm btn-outline-secondary" onclick="location.href='https://www.jobplanet.co.kr/job/search?posting_ids%5B%5D=1254797'">공고 자세히 보기</button>
                               </div>
                             </div>
                           </div>
                         </div>
-                        <!--카드2-->
+                        <!--카드-->
                         <div class="col">
                           <div class="card shadow-sm">
-                            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+                            <img src="https://jpassets.jobplanet.co.kr/production/uploads/job/posting_cover_image/file/87264/cropped_medium__%ED%9C%B4%EB%A8%B8%EC%8A%A4%EC%98%A8__%EB%A1%9C%EA%B3%A0%20%EC%B4%AC%EC%98%81%20%EC%82%AC%EC%A7%84.jpg">
                             <div class="card-body">
-                              <p class="card-text"><b>회사명</b></p>
-                              <p class="card-text">skills list</p>
+                              <p class="card-text"><b>(주)휴머스온</b></p>
+                              <p class="card-text"><b>IT솔루션 개발팀장 채용</b></p>
+                              <p class="card-text">java</p>
                               <div class="d-flex justify-content-between align-items-center">
-                                  <button type="button" class="w-100 btn btn-sm btn-outline-secondary">공고 자세히 보기</button>
+                                  <button type="button" class="w-100 btn btn-sm btn-outline-secondary" onclick="location.href='https://www.jobplanet.co.kr/job/search?posting_ids%5B%5D=1260844'">공고 자세히 보기</button>
                               </div>
                             </div>
                           </div>
                         </div>
-                        <!--카드3-->
+                        <!--카드-->
                         <div class="col">
                           <div class="card shadow-sm">
-                            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+                            <img src="https://jpassets.jobplanet.co.kr/production/uploads/job/posting_cover_image/file/86342/cropped_medium_cropped_medium_cropped_medium_%E1%84%87%E1%85%A5%E1%86%AB%E1%84%80%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%90%E1%85%A5%20%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9-kor%20_1_.jpg">
                             <div class="card-body">
-                              <p class="card-text"><b>회사명</b></p>
-                              <p class="card-text">skills list</p>
+                              <p class="card-text"><b>번개장터(주)</b></p>
+                              <p class="card-text"><b>Data Engineer</b></p>
+                              <p class="card-text">java, kotlin, python, aws, hadoop, scala, Spark</p>
                               <div class="d-flex justify-content-between align-items-center">
-                                  <button type="button" class="w-100 btn btn-sm btn-outline-secondary">공고 자세히 보기</button>
+                                  <button type="button" class="w-100 btn btn-sm btn-outline-secondary" onclick="location.href='https://www.jobplanet.co.kr/job/search?posting_ids%5B%5D=1258627'">공고 자세히 보기</button>
                               </div>
                             </div>
                           </div>
@@ -1051,6 +1056,62 @@
 </main>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
-    <script src="index.js"></script></body>
+    <script src="index.js"></script>
+
+    <script>
+      //테마별 감성분석 점수
+      var score_bal = 40;
+      var score_ben = 41;
+      var score_env = 40;
+      var score_sal = 41;
+
+      //점수 출력
+      score_balance.innerText = score_bal;
+      score_benefit.innerText = score_ben;
+      score_environment.innerText = score_env;
+      score_salary.innerText = score_sal;
+
+      // 프로그레스바 출력
+      progress_balance.setAttribute('style',`width:${score_bal}%`); //키보드 ~로 변수 포함 문자열 묶기
+      progress_benefit.setAttribute('style',`width:${score_ben}%`);
+      progress_environment.setAttribute('style',`width:${score_env}%`);
+      progress_salary.setAttribute('style',`width:${score_sal}%`);
+
+      function extractFileText() {
+          get('/your_file.txt', function (data) {
+            words = data.split('\s');
+          });
+      };
+
+
+      //장점
+      // pos_bal = '000';
+      // neg_bal = '000';
+      // pos_ben = '000';
+      // neg_ben = '000';
+      // pos_env = '000';
+      // neg_env = '000';
+      // pos_sal = '000';
+      // neg_sal = '000';
+
+      // pos_balance.innerText = pos_bal;
+      // neg_balance.innerText = neg_bal;
+      // pos_benefit.innerText = pos_ben;
+      // neg_benefit.innerText = neg_ben;
+      // pos_environment.innerText = pos_env;
+      // neg_environment.innerText = neg_env;
+      // pos_salary.innerText = pos_sal;
+      // neg_salary.innerText = neg_sal;
+
+
+      //함수화
+      // function review_results(){
+      //   document.getElementsByID("score_balance") =67
+      // };
+
+    </script>
+  
+  
+</body>
     
 </html>

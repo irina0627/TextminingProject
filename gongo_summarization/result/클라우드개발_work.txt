@@ -1,0 +1,1 @@
+백엔드 API 개발 및 아키텍쳐링 백엔드 API 개발 및 서비스 개편 DBPostgresql 설계 및 구축 Message streaming service environment 설계 및 구축

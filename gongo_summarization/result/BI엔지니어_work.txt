@@ -1,0 +1,1 @@
+캐롯 주행계약 관련 지표 생성 및 제공하고 Datawarehouse 및 Data mart 관련 스키마 설계 및 workflow 스케쥴링을 한다.

@@ -1,0 +1,48 @@
+핵심역량성실성 성취지향성 꼼꼼함 적응성 창의성 계획성 스트레스관리 윤리의식 자존감 협동심 메타인지 성장지향성학력  대졸이상경력  5  15년전기전자 관련 학과정부과제 수행 경험자 우대프로젝트 운영 기획 경험자 우대HW FW 설계 경력 우대
+ 전기과 전자과 메카트로닉스 및 공학계열 2DAuto CAD 설계 Tool 활용 가능자 해당직무 근무경험 반도체 장비 경험자 반도체 물류장비 경험자 관련 자격증 보유 우대
+ 전기과 전자과 메카트로닉스 및 공학계열 2DAuto CAD 설계 Tool 활용 가능자 해당직무 근무경험 반도체 장비 경험자 반도체 물류장비 경험자 관련 자격증 보유 우대
+ 석사이상 전자 전기 공학 전공 전자 전기공학 석사 이상 학위자
+ ESD IO Clamp EOS DesignAnalysis에 대한 지식 및 양산지원 업무 경험자 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+ LED SignageBacklight IC 및 Module 평가에 대한 지식 및 업무 경험자 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+하기 요건 중 한가지라도 경력 있으시면 선택하여 지원 가능합니다 LED Driver IC에 대한 지식 및 양산 개발 업무 경험자 Analog Circuit Design  Layout에 대한 지식 및 개발 업무 경험자 Data Converter ADCDAC에 대한 지식 및 업무 경험자 Modeling Tool VerilogA Matlab에 대한 지식 및 업무 경험자 Full Custom Toplevel Circuit DesignLayoutVerification에 대한 지식 및 업무 경험자 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+하기 요건 중 한가지라도 경력 있으시면 선택하여 지원 가능합니다 LCDOLED Display Driver IC에 대한 지식 및 양산개발 해당 업무 경험자  Analog Circuit Design  Layout에 대한 지식 및 해당 개발업무 경험자 Data Converter ADCDAC 해당 업무 경험자 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+하기 요건 중 한가지라도 경력 있으시면 선택하여 지원 가능합니다 MIPI eDP LVDS iSP EPI 등 HSSI에 대한 지식 및 개발 업무 경험자 CDR Clock Data Recovery Circuit 에 대한 지식 및 개발 업무 경험자 Analog Circuit Design  Layout에 대한 지식 및 개발 업무 경험자 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+ 중 선택 하여 지원 가능 Timing Controller RTL 설계LCD OLED 영상처리 알고리즘의 RTL구현 eDP RX Controller개발관련 설계 전자 전기공학 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+ 중 선택 하여 지원 가능 Timing Controller RTL 설계LCD OLED 영상처리 알고리즘의 RTL구현 eDP RX Controller개발관련 설계 전자 전기공학 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+핵심역량성실성 성취지향성 꼼꼼함 적응성 창의성 계획성 스트레스관리 윤리의식 자존감 협동심 메타인지 성장지향성학력  대졸이상경력  5  15년전기전자 관련 학과정부과제 수행 경험자 우대프로젝트 운영 기획 경험자 우대HW FW 설계 경력 우대
+학력 무관A전기전자 공학계열 전공자BFAE 경험자C영어 가능자D운전 가능자
+ 반도체 소자 물리에 대한 깊은 이해를 바탕으로 소자 데이터와 모델링 결과 분석과 평가 가능 Spice 소자 ModelBSIM 등 및 Parameter 이해 회로 simulationhspice spectre 가능 반도체 소자 관련 연구실 석박사 출신 TCAD SPICE 등 주요 EDA tool 사용 및 회로 분석 경험 Si 소자메모리 Logic TFET 등 디스플레이용 TFT 및 Emerging device RRAM PRAM FeFET 등 제작분석 경험 반도체 소자 Compact modeling  BSIM 등 model parameter extraction 경험 실제 웨이퍼에서 소자 데이터 측정 경험  RF 데이터 측정 경험 Python과 같은 Script 언어 활용하여 효율적인 데이터 처리 가능하고 필요하면 inhouse 툴 제작 가능 능력
+경력 무관학력 고졸이상동종업계 근무자의료기기전기 전자공학계열 전공 해당직무 근무자
+핵심역량성실성 성취지향성 꼼꼼함 적응성 창의성 계획성 스트레스관리 윤리의식 자존감 협동심 메타인지 성장지향성학력  대졸이상경력  5  15년전기전자 관련 학과정부과제 수행 경험자 우대프로젝트 운영 기획 경험자 우대HW FW 설계 경력 우대
+학력 무관A전기전자 공학계열 전공자BFAE 경험자C영어 가능자D운전 가능자
+학력사항  대학교 4년 졸업 이상   졸업 예정자 가능경력사항  신입  경력우대사항열유동해석 SW 유 경험자   STARCCM Fluent CFX FloEFD 등1D Simulation 유경험자   Flomaster or Amesim 등대학원 졸업자 석사학위 이상
+학력사항  대학교 4년 졸업 이상   졸업 예정자 가능경력사항  경력열유동해석 SW 유 경험자   STARCCM Fluent CFX FloEFD 등1D Simulation 유경험자   Flomaster or Amesim 등대학원 졸업자 석사학위 이상
+ 전자 컴퓨터공학 학사 이상 C Python 프로그래밍 능력 비디오 압축 혹은 영상 처리에 관심이 있으신 분 비디오 압축 혹은 영상 처리 관련 연구 수행 및 프로젝트 경험자 리눅스 환경에서 개발 가능
+ 전자 컴퓨터공학 학사 이상 C Python 프로그래밍 능숙 리눅스 환경에서 개발 가능 협업에 능숙 주관적 개관적 화질측정지표들에 대한 개념적 이해 멀티미디어 프레임워크FFmpeg Gstreamer 사용 능숙  동영상압축포맷H264 HEVC 등에 대한 이해  사용되는 압축 툴알고리즘의 동작 이해 주관적 개관적 화질측정지표 상세 이해  각 지표의 특성 장단점 이해 AWCY 사용 경험  유지보수 가능한 수준  클라우드 활용 가능자
+ 경력 5년 이상 학력 대졸 이상 23년 나이성별  무관 컴퓨터 공학 계열 컴퓨터 활용능력 우수 해당직무 경험자 인근거주자 다관절로봇 자율 주행 로봇 경험자 또는 관심이 있는 자 모터 모션제어 자동화설비 Program 개발 경험자 Visual Studio C WPF 개발 경험자 또는 사용 가능자
+ 경력 5년 이상 학력 대졸 이상 23년 나이성별  무관 전기전자 공학 컴퓨터 시스템 공학 산업 공학 EPLAN 활용 및 전장 설계 경험자 우대 AUTO CADCAM 능숙자 PLC 및 작화 Program 경험자
+학력  대졸 이상 23년경력  신입경력 년수무관   연구원수석연구원전기전자공학 컴퓨터시스템공학해당직무 근무경험
+학력  대졸 이상 4년전기전자공학 제어계측공학 계열 전공Orcad Pads 사용 가능자 우대HW관련 개발 경험자 우대전력전자공학을 기반으로 파워스위칭 소자의 동작원리 및 제어방법을 이해하는 자MCU 회로 설계 가능한 자아트웍 PCB 설계 가능자
+ 학력  학사 이상 경력  직무관련 경력자 전공  전자반도체컴퓨터 관련 학과 CCPerl 등 Programming 가능자 Test Program 개발 경력자 영어중국어 회화 가능자
+학력전공  학사 이상이공계열경력  신입  10년 이하카메라 영상 평가 및 분석 가능자카메라 영상 튜닝 가능자2년 이상 카메라 업종 관련 종사자Camera관련 개발 및 양산 경험자SoC ISP 영상 튜닝 및 양산 경험자영상 관련 지식 경험자카메라 영상 회로 설계 경험자해외 출장 가능자차량용전장 카메라 영상 튜닝 경험자 우대
+ 학력무관 경력  3년  10년 성실성 성취지향성 꼼꼼함 적응성 창의성 계획성 스트레스내성 윤리의식 자존감 협동심 메타인지 성장지향성 PCB 제작 가능자 전자관련 전공자 HW SW 펌웨어 관련 경력자
+ 학력  대졸 졸업 이상  경력  최소 7년 이상  제조공정 기술 능숙자 시험 및 측정 기술 능숙자 센서라인 생산기술 실무 경험자 자동차전장부품 생산 기술 경력자 2D 3D CAD 활용 자동제어 가능자 센서생산기술 경력자 Basic English 가능자
+ 학력  고졸 이상 전공  이공계 신입3년 내외 경력 회로 tool  Auto CAD 사용가능자 Basic English 가능자 자동차전장부품 관련업무 경력자 센서관련 업무 경력자
+ 학력  초대졸 이상 경력  최소 5년이상 센서 개발직무 경험 Basic English 가능자 온습도 압력 가스 센서 등 개발 경험자
+ 학력  초대졸 이상 경력  최소 7년이상 센서연구개발 경력자 Basic English 가능자 자동차전장부품 연구개발 경력자 Basic English 가능자 온습도 압력 가스 센서 등 개발 경험자
+경력  3년 이상전공  전기전자제어 공학 및 유사 학위 석박사 우대동종업계 근무자의료기기전자회로에 대한 이해 및 회로 설계 가능자 FW 설계 및 양산 이관 경험자 SW 설계 가능자
+ 비전 및 영상처리 관련 개발 경력 3년 이상 C 또는 C 등의 언어 능숙자  OpenCV 활용 가능자 머신비전 관련 개발 경력자 의료 영상 SW 개발 경험 이미지 복원 알고리즘 논문 작성 경험 HW 기술에 대한 이해를 바탕으로 개발하며 부서간 소통이 능하신 분 현장에서 동작하는 제품을 직접 구현하고 싶으신 분
+전기전자공학 관련 전공 석사 이상 또는 관련 경력 3 년 이상 PCB Artwork 경험 의료기기 인허가 및 안전성 시험 EMC 인증 경험 있으신 분 기구설계 SW 개발자와 커뮤니케이션에 능하신 분 레이저 구동 회로 개발 경험 의료기기 신제품 개발 경험
+ 신입  학사 이상 전문연구요원 가능 경력 4년 이상 해당 전문분야 종사 반도체 및 컴퓨터 전기전자 학과 해외여행에 결격 사유가 없는 분필요스킬 Highspeed transceiver RX TX DRAM IO Interface 고속 아날로그 설계 기술 PLL DLL High speed transceiver 양산 및 테스트 경험유선 무선 Mixed mode simulation 개발 경험 직무 관련 양산 프로젝트 경험 우대 취업보호 대상자보훈 장애 등는 관련 법령에 의거하여 우대
+ 전기전자공학 기계공학 관련 전공 석사 이상 진동해석제어MEMS 관련 전공 연구 및 경험 FEM 시뮬레이션 활용 연구 경험 COMSOL ANSYS 등 광학 현미경 시스템 연구 경험 MEMS 스캐너 개발
+ 컴퓨터시스템공학인공지능 관련 석사 이상 및 개발 경력 3년 이상 Pythonpytorchtensorflow 와 같은 deep learning framework 사용 가능 자 MRI CT 병리이미지 등 의료 영상 데이터 활용 AI 진단 알고리즘 개발 경험 AI 관련 논문conference 1저자 publication Open CV 사용 경험 최신 논문 이해하고 개발에 적용할 수 있으신 분 뛰어난 의사소통 능력을 가진 분 Deep learning pipeline 개발 MLOps 담당 경험
+레이저 기반 광학 현미경Confocal OCT multiphoton SHIM 등 관련 석사 이상 공초점 형광반사 광학계 시스템 구축 경험 SM mode 광섬유 기반 연구 경험 광학 부품 렌즈 필터 미러 등을 활용한 광학계 설계 및 연구 경험 바이오이미징 관련 연구 경험 새로운 기술에 관심이 많고 꾸준히 학습하시는 분
+ 전기과 전자과 메카트로닉스 및 공학계열 2DAuto CAD 설계 Tool 활용 가능자 해당직무 근무경험 반도체 장비 경험자 반도체 물류장비 경험자 관련 자격증 보유 우대
+ 석사이상 전자 전기 공학 전공 전자 전기공학 석사 이상 학위자
+ ESD IO Clamp EOS DesignAnalysis에 대한 지식 및 양산지원 업무 경험자 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+ LED SignageBacklight IC 및 Module 평가에 대한 지식 및 업무 경험자 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+하기 요건 중 한가지라도 경력 있으시면 선택하여 지원 가능합니다 LED Driver IC에 대한 지식 및 양산 개발 업무 경험자 Analog Circuit Design  Layout에 대한 지식 및 개발 업무 경험자 Data Converter ADCDAC에 대한 지식 및 업무 경험자 Modeling Tool VerilogA Matlab에 대한 지식 및 업무 경험자 Full Custom Toplevel Circuit DesignLayoutVerification에 대한 지식 및 업무 경험자 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+하기 요건 중 한가지라도 경력 있으시면 선택하여 지원 가능합니다 LCDOLED Display Driver IC에 대한 지식 및 양산개발 해당 업무 경험자  Analog Circuit Design  Layout에 대한 지식 및 해당 개발업무 경험자 Data Converter ADCDAC 해당 업무 경험자 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+하기 요건 중 한가지라도 경력 있으시면 선택하여 지원 가능합니다 MIPI eDP LVDS iSP EPI 등 HSSI에 대한 지식 및 개발 업무 경험자 CDR Clock Data Recovery Circuit 에 대한 지식 및 개발 업무 경험자 Analog Circuit Design  Layout에 대한 지식 및 개발 업무 경험자 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+ 중 선택 하여 지원 가능 Timing Controller RTL 설계LCD OLED 영상처리 알고리즘의 RTL구현 eDP RX Controller개발관련 설계 전자 전기공학 전자 전기공학 석사 이상 학위자 해당 업무 경험자
+ 중 선택 하여 지원 가능 Timing Controller RTL 설계LCD OLED 영상처리 알고리즘의 RTL구현 eDP RX Controller개발관련 설계 전자 전기공학 전자 전기공학 석사 이상 학위자 해당 업무 경험자

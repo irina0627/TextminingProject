@@ -1,0 +1,2 @@
+ 캐롯 주행계약 관련 지표 생성 및 제공해요 Datawarehouse 및 Data mart 관련 스키마 설계 및 workflow 스케쥴링을 해요 Hadoop 기반 DW 구축 및 운영wData engineer을 해요 Power BI 활용한 BI Dashboard 개발을 해요
+ 전사 Business Intelligence  Dashboard Report 개발 분석 및 운영 전사 및 각 부서의 전략적인 데이터 기반 의사결정을 지원하기 위해 주요 지표 개발 전사의 주요 지표들에 대한 Descriptive Diagnostic Predictive Prescriptive 분석 복잡한 데이터 인사이트를 여러 이해관계자들이 쉽게 이해할 수 있도록 명확하고 간결하게 소통 새로운 기술을 탐색 및 수용하고 업계 모범 사례를 연구하며 BI Dashboard와 Report를 최신 상태로 유지하여 데이터 분석 기술을 지속적으로 개선

@@ -1,0 +1,30 @@
+입사하시면 경험하실 업무 입니다1 POS ERP WMS 시스템 운영 관리2 BI 시스템 운영 관리
+ERP 회계 모듈관리고객사 맞춤형 MS 회계 모듈 구축 및 기술 지원고객사 ERP 회계 모듈 프로젝트 제안 및 교육PMS회계지식을 기반으로 프로젝트에 기술적 의견을 제시비즈니스 이슈 정의해결 리더십 및 Communication Skill
+ERP 물류 모듈관리고객사 맞춤형 MS 물류 모듈 구축 및 기술 지원고객사 ERP 물류 모듈 프로젝트 제안 및 교육PMS물류생산관리 지식을 기반으로 프로젝트에 기술적 의견을 제시비즈니스 이슈 정의해결 리더십 및 Communication Skill
+Microsoft Dynamics ERP 신규 프로젝트 개발고객사 ERP 유지보수 및 장애 처리
+ GSABIS 솔루션 개발nexacro14 Java Spring Tibero OZReport 포워딩 창고 회계 업무 개발 및 운영nexacro14 Java Spring Tibero Jsp Jquery MSSQL
+ 자사 물류ERP 시스템 운영 및 유지보수 VB6 MSSQL
+ SAP S4HANA 신규 구축 SAP FCMFI COTR SAP SCMPP SD MM WM LE 등 SAP EWM SAP S4HANA Conversion PI 및 업무 고도화 프로젝트 컨설팅
+ SAP ECC60 S4HANA 대내외 고객사 운영 및 개발 SAP FCM FI CO TR 유지보수
+ SAP ECC60 S4HANA 대내외 고객사 운영 및 개발 SAP SCM PP SD MM WM QM 유지보수
+ 제일제당 SAP CO관리 운영개발 고객사 비지니스 대응 및 관리결산 수행검증 업무 프로세스 수립 및 운영 사용자 교육 및 고객 문의 대응
+ 종근당 천안공장 전산운영업무 NET 기반 Application관리 SAP ERP운영
+ ERP 프론트엔드백엔드 풀스택 개발
+ SAP EWM 시스템 Configuration 창고관리 업무 프로세스 설계 개발 프로그램 설계 및 Spec 작성
+ SAP ECC60 S4HANA 구축 SAP ECC60 S4HANA 대내외 운영 SAP 솔루션 Upgarde 및 Migration S4 Conversion 및 PCOE 인증
+ SAP ECC60 S4HANA 신규 구축SD MM FI CO PP TR QM WM 등 SAP S4HANA Conversion 수행
+ SAP Business One 개발SI 국내 및 해외 사이트 SAP Business One 구축 SAP Business One addon 개발 및 운영 SAP Business One Cloud 구축 및 운영 SAP Business One 3rd Party Web 개발 SAP Business One Mobile App 확장개발 SAP Business One 개발SM 국내 및 해외 고객사 SAP Business One 운영물류재무인사원가 고도화 단위 프로젝트 개발SI 개발 및 SM 유지보수 각 포지션별 모집 중입니다
+삼성전기 수원 프로젝트 MES 프로젝트로 제품이 생산되는 일련의 공정들에 대한 UI단을 개발MSS 프로젝트로 설비와 MES 간의 Dashboard를 개발하는 역할로써 UI와 DB를 모두 컨트롤하는 업무면접 후 상기 적합도에 따라 포지션 배치
+이대리 운영 및 유지보수  httpsedaericom
+ 회계국내외 및 수출 시스템 운영개발유지보수 내부 ERP 개발운영유지보수
+ SAP ERP 시스템 운영   Process 분석설계 및 Configuration SAP ABAP 프로그램 개발
+ 그룹사한국앤컴퍼니 SAP시스템 SDMM모듈 운영 및 유지보수
+ 그룹사한국앤컴퍼니 SAP시스템 HR 모듈 운영 및 유지보수
+ 그룹사한국앤컴퍼니 SAP시스템 CO모듈 운영 및 유지보수
+ SAP FITR 모듈 운영 고객사 월분기년 결산지원 부가세 신고 지원 SAP 회계 전표 데이터 대량 인터페이스 처리 및 타모듈 FI SD MM PP BW 협업 고객사 사업 변화에 따른 과제 지원 및 관련 운영 프로젝트 수행 SAP 시스템을 포함하는 SM 프로젝트 수행 및 SI 프로젝트 지원
+ 제일제당 해외 식품바이오 SAP ERP eWM 운영개발 미주남미 동남아 아시아 유럽 중국 등 해외 16개국 80개소 해외 법인 개별 업무 환경과 특화 프로세스를 고려 Best Practice 도출 및 적용 년 12회 해외 법인 출장을 통해 변화관리사용자 교육 글로벌 법인 확산 Roll outin 프로젝트 수행 지원교육 출장  12주 프로젝트 지원 출장  35주 MMSD 직무 경험자도 지원 가능
+ 제일제당 해외 식품바이오 SAP ERP QM운영개발 미주남미 동남아 아시아 유럽 중국 등 해외 16개국 80개소 해외 법인 개별 업무 환경과 특화 프로세스를 고려 Best Practice 도출 및 적용 년 12회 해외 법인 출장을 통해 변화관리사용자 교육 글로벌 법인 확산 Roll outin 프로젝트 수행 지원교육 출장  12주 프로젝트 지원 출장  35주 PP 직무 경험자도 지원 가능
+ 교원그룹 IT 업무시스템 개발 요구사항 분석 Table 설계 및 화면 개발
+체계적인 내부 시스템 확립을 위해 세무회계 경력자 채용을 진행합니다 ERP구축 경험이 있거나 세무사 사무소 금융권 경력이 있으신 분이면 더욱 좋을 것 같습니다 ERP를 통한 물류 회계의 종합적인 관리 업무입니다 
+입사하시면 경험하실 업무 입니다1 POS ERP WMS 시스템 운영 관리2 BI 시스템 운영 관리
+삼성전기 수원 프로젝트 MES 프로젝트로 제품이 생산되는 일련의 공정들에 대한 UI단을 개발MSS 프로젝트로 설비와 MES 간의 Dashboard를 개발하는 역할로써 UI와 DB를 모두 컨트롤하는 업무면접 후 상기 적합도에 따라 포지션 배치

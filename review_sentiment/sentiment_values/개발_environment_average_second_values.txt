@@ -1,0 +1,1 @@
+Average Second Value for 개발 environment: 0.4086765112087628

@@ -1,4 +1,5 @@
 from gensim.corpora import Dictionary
+from gensim import corpora, models
 # import libraries
 import pandas as pd
 import numpy as np
@@ -55,3 +56,24 @@ for rvw in review['장단점']:
 # # of elements
 count_noun = Counter(words_noun)
 print(count_noun)
+
+# Assuming count_lists is already created
+count_lists = []
+
+# Your existing code to create count lists
+for rvw in review['장단점']:
+    pos = okt.nouns(rvw)  # only Nouns
+    count_noun = Counter(pos)
+    count_lists.append(count_noun)
+
+# Convert count lists to a bag-of-words representation
+dictionary = corpora.Dictionary(count_lists)
+corpus = [dictionary.doc2bow(counts) for counts in count_lists]
+
+# Build the LDA model
+lda_model = models.LdaModel(corpus, num_topics=4, id2word=dictionary)
+
+# Print the topics and associated words
+topics = lda_model.print_topics(num_words=5)
+for topic in topics:
+    print(topic)

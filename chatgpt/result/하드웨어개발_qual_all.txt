@@ -1,0 +1,91 @@
+1 학력 학사 이상2 전공 전기전자 컴퓨터공학 기타 3 CCpython 프로그래밍 가능하신 분4 전장 센서 및 HWSW 개발 품질관리 경력 5년 이상인 분 5 품질관리 계획 수립 실행 분석 및 문서화 경험이 있으신 분1 소프트웨어 검증 자동화 구축 경험과 정적동적자동화 툴 사용 경험이 있으신 분 2 전장 소프트웨어 검증 프로세스에 대한 이해 및 경험이 있으신 분 3 테스트 이슈 관리 도구 BTS 툴 사용 경험이 있는 분Jira Slack Confluence 등4 원활한 의사소통 스킬 및 적극적인 협업 능력을 보유하신 분
+ 학력  대졸 이상 전공  전기 전자 제어 정보통신 아날로그디지털 회로 설계 가능자 EMC 디버깅 및 인증 유경험자 회로설계PADS Tool 가능자 양산 이관 관리 및 실무 경험자
+ 경력  무관 신입도 지원 가능사원 팀원급 근무 일시  주 5일   일요일목요일 or 토요일수요일 09001800 인근 거주자 운전 가능자 해당 직무 근무경험
+ 프로그램 개발 경력 3년 이상 다양한 객체지향 프로그래밍 지식과 경험 새로운 기술 또는 기기의 활용을 즐기는 분  새로운 것에 대한 두려움 없이 RD를 즐기는 분 비주얼 감각 및 공간을 이해하는 분 미디어아트 영역에 관심이 많으신 분 3D 게임엔진언리얼 유니티 프로그램 개발 경력자 아두이노 센서 등 하드웨어 연계 작업 경험자 기구설계 및 키네틱 개발 경험자 DMX ARTNET 조명장치 제어 경험자 GIT SVN 등 파일 관리 소프트웨어 사용 가능자
+ 각 엔지니어링 팀과 소통하여 요구되는 최상의 설계 방법론 리드 하드웨어 설계 팀과 기능 간 협력 경험 DKIT 및 설계 컴퓨팅 클러스터 관리 효율화 EDA 도구 및 라이선스 관리 EDA 공급업체와 협상 경험 능력프론트엔드 백엔드 및 맞춤형 디자인 그룹을 위한 흐름 자동화 개발 경험 빠르게 변화하는 생산 환경에서 하드웨어 디자이너 지원
+ 프로그램 개발 경력 3년 이상 다양한 객체지향 프로그래밍 지식과 경험 새로운 기술 또는 기기의 활용을 즐기는 분  새로운 것에 대한 두려움 없이 RD를 즐기는 분 비주얼 감각 및 공간을 이해하는 분 미디어아트 영역에 관심이 많으신 분 3D 게임엔진언리얼 유니티 프로그램 개발 경력자 아두이노 센서 등 하드웨어 연계 작업 경험자 기구설계 및 키네틱 개발 경험자 DMX ARTNET 조명장치 제어 경험자 GIT SVN 등 파일 관리 소프트웨어 사용 가능자
+1 학력 학사 이상2 전공 전기전자 컴퓨터공학 기타 3 CCpython 프로그래밍 가능하신 분4 전장 센서 및 HWSW 개발 품질관리 경력 5년 이상인 분 5 품질관리 계획 수립 실행 분석 및 문서화 경험이 있으신 분1 소프트웨어 검증 자동화 구축 경험과 정적동적자동화 툴 사용 경험이 있으신 분 2 전장 소프트웨어 검증 프로세스에 대한 이해 및 경험이 있으신 분 3 테스트 이슈 관리 도구 BTS 툴 사용 경험이 있는 분Jira Slack Confluence 등4 원활한 의사소통 스킬 및 적극적인 협업 능력을 보유하신 분
+ 전자공학 컴퓨터 공학 및 관련 학과 학사 이상 학위 보유 CC 개발 경력이 있으신 분 임베디드 시스템 및 펌웨어 개발 경력을 통해 다음 분야에 대한 지식을 갖추신 분    Embedded system ARM Processor    Hardware bringup hardwaresoftware integration    RTOS applicationdriver integration    UART SPI CAN BLE USB PWM ADC LED 같은 주변 장치 영어 문서 작성 및 검토가 가능하신 분 CC 개발 경력이 5년 이상 또는 그에 준하는 실력을 갖추신 분 로봇 개발 경험이 있는 분 기술 문제를 깊이 분석하고 적절한 기술적 방법으로 문제를 해결하는 경험과 역량을 갖춘 분 다음과 같은 분야에 대한 경험을 갖추신 분    STM32 MCU 개발 경험    Embedded RTOS 개발 경험    Network 및 Protocol 개발 경험    JIRA Confluence Git 활용 경험    CICD 파이프라인 활용 경험    제품 대량 생산 및 유지보수 경험 다이나믹하고 애자일한 초기 스타트업에서 제품을 개발출시한 경험이 있는 분 비즈니스 레벨의 영어 의사소통이 가능한 분
+ VerilogHDL 기반 RTL 설계 Simulation Model 및 Testbench 설계 RTL Simulation 및 Verification FPGA built in logic analyzer 사용 경험Chip ScopeSignalTap Language PythonPerl CC Vivado 또는 Synplify 또는 Quartus II 경험 각종 FPGA interface block 사용 경험 LVDS Single ended DDR4 interface PCIe GTYGTM 등DSP sliceblock 사용 경험 대용량 FPGA 사용 경험 Xilinx VirtexKintex Altera Stratix ARM 기반 SoC 경험 AHB AXI 관련 지식 SoC를 대용량 FPGA 포팅 가능자 FPGA와 연동하는 Daughter 보드 PCB 설계개발 경력 각종 센서 interface 경력 Firmware 개발 embedded Linux 포팅 및 SW 개발 Device Driver 개발 경력 NiosMicroBlaze soft core 경력 Xilinx Zynq FPGA 사용 경력 인공신경망 및 딥러닝 관련 지식
+ System Verilog UVM C 를 이용한 IP 및 SoC Full chip 검증 IP 및 SoC Full chip Test plan 작성 및 검증 Coverageconstraint 등 Verification Methodology 스펙 기반의 verification attribute 와 coverage model 추출 IP 및 SoC Design 기능을 디버깅 Linux Shell Tcl Python Perl 활용 역량 Linux OS 기반 환경에서 개발 경험 및 역량 CC and object oriented programming 기반으로 기술된 알고리즘 이해와 설계 개발 경험 및 능력 ARM processor and debugger 경력 ACEAXIAHBAPB Bus 경력 ASIC Verification 경력 인공신경망 및 딥러닝 관련 지식
+학력  초대졸이상경력  경력5년우대사항병역특례영어가능자관련 석사학위 수여자3D 프린터 OS 개발 유경험자레이저 관련 설비 OS 개발 유경험자
+ 임베디드 리눅스 개발 경력 5년 이상 CC 프로그래밍 가능자 오픈소스 포팅 유경험자 협업 및 유연한 커뮤니케이션 스킬 보유자
+C언어 사용 가능자MCU 주변 회로 분석 가능자끈기 인내심 도전 정신 본인이 하는 일에 자부심을 가지고 일하시는 분충전기 개발 관련 업무FW 개발 경험자
+소프트웨어  Embedded Linux 기반 소프트웨어 개발 가능자  CC 프로그램 가능자 하드웨어  전자공학 컴퓨터공학 공학 계열 전공자 회로 설계 모터제어 펌웨어 경력자 전자 및 컴퓨터 공학 관련 자격증 소지자소프트웨어  QT 개발 결험자  네트워크 및 시리얼 통신 개발 경험자 하드웨어  ARM Cortex M3M4M7 개발 경험자  설계툴OR CAD Pads 능통자 
+ 임베디드 리눅스 개발 경력 5년 이상 CC 프로그래밍 가능자 오픈소스 포팅 유경험자 협업 및 유연한 커뮤니케이션 스킬 보유자
+ 경력  무관 신입도 지원 가능사원 팀원급 근무 일시  주 5일   일요일목요일 or 토요일수요일 09001800 인근 거주자 운전 가능자 해당 직무 근무경험
+ 각 엔지니어링 팀과 소통하여 요구되는 최상의 설계 방법론 리드 하드웨어 설계 팀과 기능 간 협력 경험 DKIT 및 설계 컴퓨팅 클러스터 관리 효율화 EDA 도구 및 라이선스 관리 EDA 공급업체와 협상 경험 능력프론트엔드 백엔드 및 맞춤형 디자인 그룹을 위한 흐름 자동화 개발 경험 빠르게 변화하는 생산 환경에서 하드웨어 디자이너 지원
+ 프로그램 개발 경력 3년 이상 다양한 객체지향 프로그래밍 지식과 경험 새로운 기술 또는 기기의 활용을 즐기는 분  새로운 것에 대한 두려움 없이 RD를 즐기는 분 비주얼 감각 및 공간을 이해하는 분 미디어아트 영역에 관심이 많으신 분 3D 게임엔진언리얼 유니티 프로그램 개발 경력자 아두이노 센서 등 하드웨어 연계 작업 경험자 기구설계 및 키네틱 개발 경험자 DMX ARTNET 조명장치 제어 경험자 GIT SVN 등 파일 관리 소프트웨어 사용 가능자
+ 기계공학 학사 이상자 기구설계자로서 성장하고자 하는 열정이 필요함 로봇 자동화 분야 기구부 설계 관련 유경험자 우대 3D 2D 설계툴 능숙자 인벤터 솔리드웍스 NX 오토캐드 등
+ 기계공학 석사 이상자 경력 4년 이상 협동로봇산업용로봇 설계 및 다양한 로봇 설계 경험 3D 2D 설계툴 능숙자   인벤터 솔리드웍스 NX 오토캐드 등 기구부 구조 해석을 통한 설계 제작 경험  양산 품질을 고려한 설계 경험 다양한 구조의 로봇암 설계 경험 각종 감속기 및 기어 적용 경험 설계에서 양산까지 기구부에 대한 전반적인 유경험자
+1 학력 학사 이상2 전공 전기전자 컴퓨터공학 기타 3 CCpython 프로그래밍 가능하신 분4 전장 센서 및 HWSW 개발 품질관리 경력 5년 이상인 분 5 품질관리 계획 수립 실행 분석 및 문서화 경험이 있으신 분1 소프트웨어 검증 자동화 구축 경험과 정적동적자동화 툴 사용 경험이 있으신 분 2 전장 소프트웨어 검증 프로세스에 대한 이해 및 경험이 있으신 분 3 테스트 이슈 관리 도구 BTS 툴 사용 경험이 있는 분Jira Slack Confluence 등4 원활한 의사소통 스킬 및 적극적인 협업 능력을 보유하신 분
+1 석사 이상 관련 전공 졸업자 2 설계 경험 보유자3 RF 수동소자 설계 지식 보유자4 RF 단품 측정 경험자1 차량용 radar 안테나 설계 경험자 우대2 다양한 RF 수동소자 설계 경험자 우대3 RF 단품 측정 경험자 우대
+ 전자공학 컴퓨터 공학 및 관련 학과 학사 이상 학위 보유 CC 개발 경력이 있으신 분 임베디드 시스템 및 펌웨어 개발 경력을 통해 다음 분야에 대한 지식을 갖추신 분    Embedded system ARM Processor    Hardware bringup hardwaresoftware integration    RTOS applicationdriver integration    UART SPI CAN BLE USB PWM ADC LED 같은 주변 장치 영어 문서 작성 및 검토가 가능하신 분 CC 개발 경력이 5년 이상 또는 그에 준하는 실력을 갖추신 분 로봇 개발 경험이 있는 분 기술 문제를 깊이 분석하고 적절한 기술적 방법으로 문제를 해결하는 경험과 역량을 갖춘 분 다음과 같은 분야에 대한 경험을 갖추신 분    STM32 MCU 개발 경험    Embedded RTOS 개발 경험    Network 및 Protocol 개발 경험    JIRA Confluence Git 활용 경험    CICD 파이프라인 활용 경험    제품 대량 생산 및 유지보수 경험 다이나믹하고 애자일한 초기 스타트업에서 제품을 개발출시한 경험이 있는 분 비즈니스 레벨의 영어 의사소통이 가능한 분
+학력전공  학사 이상  이공계열경력  3년이상  10년이하다양한 Application 및 전장 관련 경험자전자통신 공학 전공자ORCAD  Pads Tool 사용 가능자
+ 학력 대졸 이상 전공 전기 전자 제어공학 보유 기술　 C언어 프로그램 가능자DSP ARM ATmega 아두이노 등　 아날로그 또는 디지털 회로설계 가능자　 전력전자분야 제품개발 가능자경력자인 경우 석사인 경우 병역특례전문연구요원 지원가능 석박사전력전자 전공 우대 PCB Artwork 가능자 우대
+ RF 회로 기초이론에 대한 이해 및 설계 능력 전자회로 기초이론에 대한 이해 및 설계 능력 영어 문서를 읽고 이해하는 능력 RF Active 소자 설계 경험자
+ VerilogHDL 기반 RTL 설계 Simulation Model 및 Testbench 설계 RTL Simulation 및 Verification FPGA built in logic analyzer 사용 경험Chip ScopeSignalTap Language PythonPerl CC Vivado 또는 Synplify 또는 Quartus II 경험 각종 FPGA interface block 사용 경험 LVDS Single ended DDR4 interface PCIe GTYGTM 등DSP sliceblock 사용 경험 대용량 FPGA 사용 경험 Xilinx VirtexKintex Altera Stratix ARM 기반 SoC 경험 AHB AXI 관련 지식 SoC를 대용량 FPGA 포팅 가능자 FPGA와 연동하는 Daughter 보드 PCB 설계개발 경력 각종 센서 interface 경력 Firmware 개발 embedded Linux 포팅 및 SW 개발 Device Driver 개발 경력 NiosMicroBlaze soft core 경력 Xilinx Zynq FPGA 사용 경력 인공신경망 및 딥러닝 관련 지식
+ System Verilog UVM C 를 이용한 IP 및 SoC Full chip 검증 IP 및 SoC Full chip Test plan 작성 및 검증 Coverageconstraint 등 Verification Methodology 스펙 기반의 verification attribute 와 coverage model 추출 IP 및 SoC Design 기능을 디버깅 Linux Shell Tcl Python Perl 활용 역량 Linux OS 기반 환경에서 개발 경험 및 역량 CC and object oriented programming 기반으로 기술된 알고리즘 이해와 설계 개발 경험 및 능력 ARM processor and debugger 경력 ACEAXIAHBAPB Bus 경력 ASIC Verification 경력 인공신경망 및 딥러닝 관련 지식
+ 각 엔지니어링 팀과 소통하여 요구되는 최상의 설계 방법론 리드 하드웨어 설계 팀과 기능 간 협력 경험 DKIT 및 설계 컴퓨팅 클러스터 관리 효율화 EDA 도구 및 라이선스 관리 EDA 공급업체와 협상 경험 능력프론트엔드 백엔드 및 맞춤형 디자인 그룹을 위한 흐름 자동화 개발 경험 빠르게 변화하는 생산 환경에서 하드웨어 디자이너 지원
+ 학력  대졸 이상 전공  전기 전자 제어 정보통신 아날로그디지털 회로 설계 가능자 EMC 디버깅 및 인증 유경험자 회로설계PADS Tool 가능자 양산 이관 관리 및 실무 경험자
+경력  무관 경력 신입 지원 가능학력  대졸 이상 4년해양로봇 및 무선통신 하드웨어 개발에 흥미가 있으신 분긍정적인 사고로 업무에 임하며 동료와의 관계를 잘 이끌어 가실 분전기전자공학 기계자동차조선공학운전가능자 석박사 학위 수여자
+ 학력  대졸4년제 이상 경력  경력2년 이상 8년 미만주임연구원선임연구원 임베디드 하드웨어 개발 경험지식 모터제어 회로설계 경험지식 회로설계 툴 관련 경험지식PADS OrCAD 등 반도체 스펙 분석 및 이해 능력 차량용 제어기 회로 설계 및 개발 경험 차량용 제어기 기능 검증 및 인증 시험 경험
+ 학력 경력 무관 납땜 경험이 있으신 분 기기 분해  조립에 익숙하신 분 PPT 및 엑셀 문서 작성에 익숙하신 분 재고관리 경험을 보유하신 분 디바이스 테스트 경험을 보유하신 분 계측기 사용 경험을 보유하신 분 오실로스코프 등 IoT 단말기에 관심이 있으신 분 책임감이 강하고 의사소통이 원활하신 분 운전면허 보유자
+학력  초대졸이상경력  경력5년우대사항병역특례영어가능자관련 석사학위 수여자3D 프린터 OS 개발 유경험자레이저 관련 설비 OS 개발 유경험자
+전기전자 관련 전공 및 유경험자4년제 학사 이상 전공자   석박사 우대   Converter  Inverter Power 설계 유경험자   제픔 개발 및 양산 유경험자   ORCad Pads 설계 가능자   비즈니스 영어 가능자ReadingWritingSpeaking
+1 학력  학사 이상2 경력  1년 이상3 설계 ToolOR CAD Pads 활용 능력 4 전장설계 자동제어 개발 경력자 Dental Unit Chair 및 제품 개발 개발 경험 모터 제어 및 LCD 인터페이스 개발 경험 ARM Cortex M3M4M7 개발 경험
+ 직무 관련 전공 학사 이상의 학위를 가진 분을 찾고 있어요 주어진 업무에 주장chief으로써 능동적으로 고민하고 스스로 결정하며 일을 추진할 수 있어야 합니다 비전 시스템과 임베디드 개발 경험이 있으면 좋아요 Reverse Engineering 가능하시면 좋습니다 프로젝트 관리 경험이 있으시면 좋아요 PCB Artwork 가능하시면 좋습니다 사무자동화 산업기사 또는 동급의 자격을 가지고 계시면 좋아요 도면 기구 회로 검토가 가능하고 간단한 설계는 직접 하실 수 있으면 좋습니다
+ CC 언어 개발 경험 RTOS Embedded Linux 환경 업무 수행가능자  전기차 충전기 관련 및 ESS 펌웨어 개발경력자 우대 정보처리기사 전자계산기조직응용기사 등관련 자격자 우대 FW 정적 및 동적 시험MISRAC 가능자 우대
+ 학력  학력무관 경력  3년  15년 스킬  AutoCAD CAD Firmware PCB 제작 가능자 전자관련 전공자 HW SW 펌웨어 관련 경력자
+ 학력  학력무관 경력  신입 스킬  AutoCAD CAD Firmware PCB 제작 가능자 전자관련 전공자 HW SW 펌웨어 관련 경력자
+ 무선 충전 Hardware 개발 경력 5년 이상자 무선충전기RxTx 설계 및 전력변환 개발업무 경험자 무선충전관련 다양한 Application 제품 개발 경험 보유자 전력전송 안테나Wireless Coil 설계 경력자 무선전력전송 표준 규격인증관련 경력자
+ 이런 분을 찾고 있어요  Arm MCU 기반의 Digital 회로에 대한 이해가 높으신 분 Arm 펌웨어 개발 역량을 갖추신 분 관련 프로젝트 경험이 있으신 분 개발 포트폴리오 제출 이런 분이면 더 좋아요  Analog 회로에 대한 이해에 기반한 펌웨어 개발 역량을 갖추신 분 개발 프로젝트를 완료하고 양산해본 경험이 있으신 분 개발 포트폴리오 제출 전기안전 전자파 시험 및 디버깅 경험이 있으신 분 무선BT Wifi 데이터통신 개발 경험이 있으신 분 RTOS 포팅 및 개발 역량이 있으신 분
+ AI 관련 전공프로젝트 포트폴리오 제출 Tensorflow  CNN DNN RNN 에 대한 높은 이해 데이터 정제 outlier 제거 등 전처리를 위한 도구 개발 경험 Python  C  MATLAB 숙련자 관련분야 석박사 학위자 생체신호 분석 관련 프로젝트 포트폴리오 보유자 관련 프로젝트 리드 경험자 수준급 저널 논문 게재 실적 보유자
+ Analog 회로 설계 역량 디버깅 포함 ARM MCU 기반의 Digital 회로 설계 역량 ARM 펌웨어 개발 역량 ARTWORK 설계 관련 프로젝트 경험 개발 포트폴리오 제출 3건 이상의 개발 프로젝트를 완료 및 양산 경험 개발 포트폴리오 제출 전기안전 전자파 시험 및 디버깅 경험 무선BT Wifi 데이터통신 개발 경험 RTOS 포팅 및 개발 역량
+이에요 임베디드 펌웨어 개발 7년 이상 전기 전자 컴퓨터 공학 또는 이와 관련된 전공자임베디드 장치 개발을 위한 기본적인 장비 조작 가능자 커뮤니케이션이 원활한 자
+ 이런 경험을 하신 분을 찾고 있어요 전자공학 전자전기공학 전자제어공학 등 관련 분야를 전공하신 분포트폴리오 또는 기술이력서 제출가능하신 분 이런 경험을 하신 분은 더 좋아요 하드웨어펌웨어 개발 경력 있으신 분
+ 학력  초대졸이상 경력  520년 계획성 성실성 꼼꼼함 창의성 협동심 성장지향성 모터드라이버 설계 가능자 회로설계  PCB 설계 관련 경력자 펌웨어 개발 경력자
+ 학력  초대졸이상 경력  신입 계획성 성실성 꼼꼼함 창의성 협동심 성장지향성 모터드라이버 설계 가능자 회로설계  PCB 설계 관련 경력자 펌웨어 개발 경력자
+ 마이크로 프로세서 AVR ARM DSP etc 사용 경력 3년 이상 C언어 사용 경력 3년 이상 마이크로 프로세서를 사용한 Embedded System 설계 가능자 우대ADDA Ethernet 통신 SPI 통신 UART 통신 DC  BLDC  Motor 제어 유경험자 우대 영어 일본어 가능자 우대
+ 관련 전공자 Verilog  C 기본 지식 보유 CCVerilog HDL에 대한 지식 보유 LinuxUnix 환경에 대한 지식 보유 PythonPerlJAVAShell Script에 대한 지식 보유 Video Codec에 대한 지식 보유 FPGA Development Environment 경험
+ 전자공학과 등 관련학과 졸업 또는 24년 2월 졸업 예정자 학과 과정 외의 디지털 설계RTL 경험이 있거나 관련 교육 이수자 CC에 대한 이해 석사 학위 소유자
+ MCU C 프로그래밍 개발 경험 프로젝트 진행 및 협업 역량 MCU C프로그래밍 개발 경험자 자동 제어 개발 경험자 차량용 제어기 및 통신 장비 개발 경험자 각종 개발 프로젝트 참여 경험자 관련 전공 석박사 학위 보유자 커뮤니케이션 능력 문제 해결 능력 보유자
+ 임베디드 리눅스 개발 경력 5년 이상 CC 프로그래밍 가능자 오픈소스 포팅 유경험자 협업 및 유연한 커뮤니케이션 스킬 보유자
+CC programming 이 가능해야 합니다3년 이상의 임베디드 관련 업무 경력 혹은 학위 소지가 필요합니다Arm 계열 CPU에 대한 이해 및 임베디드 시스템에 대한 이해가 있어야 합니다BUS IO 등에 대한 이해 및 드라이버 구현이 가능 해야 합니다 Camera interface framework 개발 경험  MIPI CSI GMSL GstreamerQualcomm  Nvidia soc 개발 경험ROS MAVLink 등의 robotics 개발 경험전자 회로 디지털 신호 처리 제어 시스템 역학 등 하드웨어 및 제어 관련 지식과 경험을 우대 합니다다양한 플랫폼장치에서의 소프트웨어 개발 경험을 우대 합니다글을 통해 실험 결과를 정리하고 결론을 도출해본 경험과 역량을 우대 합니다 논문 불량 분석 보고서 검증 보고서 등
+ 학력  석사 이상 전자전기 계열 학과 전공자 아날로그  디지털 회로설계 기본지식  엔지니어 업무상의 영어 소통 가능자 전력전자 전공자
+ 학력  관련 전공자 학사 이상 마이크로 LED 검사장비 관련 유경험자 광학계 개발 및 측정 광학관련 전공지식 보유 정부 과제 수행 경험 관련 전공 석사 우대 조명 카메라 렌즈에 대한 이해도가 높은 자 3D 광학계스테레오 광삼각법 모아레 백색광 간섭계 및 기타 간섭계 개발 유 경험자
+C언어 사용 가능자MCU 주변 회로 분석 가능자끈기 인내심 도전 정신 본인이 하는 일에 자부심을 가지고 일하시는 분충전기 개발 관련 업무FW 개발 경험자
+C언어 및 펌웨어 개발 경력 3년 이상MCU 기반의 SW개발 가능자C언어 Matlab Simulink 가능자 BLDC 모터 제어 유경험자 C언어 펌웨어 기반의 SW 개발 경험자 임베디드 시스템의 디바이스 드라이버 개발경험 Matlab Simulink 모델 개발 경험자
+C언어 및 펌웨어 개발 경력 3년 이상 MCU 기반의 SW 개발 가능자 BLDC 모터 제어 유경험자 C언어 펌웨어 기반의 SW 개발 경험자 임베디드 시스템의 디바이스 드라이버 개발경험
+ 전기전자공학메카트로닉스 또는 유사한 학과의 대졸 이상 BLDC 모터 제어 설계 경험 회로 설계 툴 관련 경험 ORCAD PADS Altium 로봇 개발 경험 의료기기 인증 경험 EMIEMC 분야 디버깅 경험 펌웨어 설계 경험
+ 학력  대졸이상 전공 전기전자  경력  5년 이상1 전기전자 계열 우대2회로개발DSPMCU 경험자3 전장품 또는 전자제품 Embeded HW 회로 설계 유경험자4 차량용 Ethernet 및 CAN 통신 회로 설계 유경험자5 뛰어난 업무 협업력과 적극적인 성향 보유자6 기능 안전 관련 유경험자
+ 경력 5년 이상 다수의 보드 설계 경험 ARM RISCV CPUbased Board level에서 ASIC 검증  평가 및 Reference board 개발 경험 Passive component DCDC LDO flash DDR logic gate 등에 대한 지식 Altium Allegro 플랫폼에 익숙하고 OrCAD schematic과 관련 BOM 작성에 능숙하신 분 보드 검증을 위한 측정기기 사용이 능숙하신 분 최종 성적증명서 제출 필수 석박사의 경우 학부 성적표도 첨부 전기 및 전자공학 관련 4년제 학사 이상 SIPI simulation해석 및 Guide 제시 경험 EMCEMI 이슈 처리 경험 PCB Layout process IPC 표준 및 SCM에 대한 이해 Spectrum Analyzers Signal Generators VNA 사용 경험
+ 초대졸 이상 이신 분 전기 및 전자계열 엔지니어링 업무 8년 이상과장급 회로 및 펌웨어 설계가 가능하신 분 ArmSTM32계열 펌웨어 개발이 가능하신 분 양산 FU 경험이 있으신 분 전기전자공학 전공자 기계자동차조선공학 전공자 반도체공학 전공자 미용 의료기기 개발 경험자 우대 ARMSTM 32등 계열 펌웨어 개발 가능자 우대 반도체 설계 가능자 우대
+소프트웨어  Embedded Linux 기반 소프트웨어 개발 가능자  CC 프로그램 가능자 하드웨어  전자공학 컴퓨터공학 공학 계열 전공자 회로 설계 모터제어 펌웨어 경력자 전자 및 컴퓨터 공학 관련 자격증 소지자소프트웨어  QT 개발 결험자  네트워크 및 시리얼 통신 개발 경험자 하드웨어  ARM Cortex M3M4M7 개발 경험자  설계툴OR CAD Pads 능통자 
+ 초대졸이상 경력무관 OrCad Altium PADS Auto Cad 아래한글 Excel 가능 전자 전기 통신 지식  전기및 전자 회로설계 기술문서 작성가능자
+ 초대졸이상 경력무관 CC 프로그래밍 아래한글 Excel 기본 HW 지식 보유 STM32 CortexM4 계열 사용 경험자 TI TMS320F28 계열 사용 경험자 STM32CubeMX STM32CubeIDE CCS 사용 경험자래한글 MSWord 기타 능력 보유
+ 초대졸이상 경력무관 컴퓨터활용능력 프레젠테이션 능력 보유 문서작성 능력 보유 사용프로그램 Power Point 아래한글 MSWord 기타 능력 보유
+ 전자공학정보처리통신 관련학과 전공자 학사 이상 C C C Python 언어 등 개발 가능 MICOM 설계 및 펌웨어 개발 ORCAD PCAD Altium Designer Summer 등 회로설계 툴 사용 5년 이상의 경력 보유자 정보처리기사산업기사 자격증 소지자 CPython Programming 가능 FPGA 설계 DSP 설계 IoT 단말 개발 리눅스안드로이드 개발
+ 학력 제어공학 및 전자공학 관련 학과 전공대졸 이상 Embedded HW 설계 분석 및 디버깅 가능한 자 전자파 전기안전 등 인증관련 업무 경험자 FCC CE RED 등 위성 송수신 시스템 관련 경험 우대 Motor 구동 설계 경험 우대 Robot 제어 및 모터제어 알고리즘 경험 우대
+ 학력 4년제 대학교 졸업 이상 경력 2년 이상선임연구원 책임연구원 수석연구원급 기타 하드웨어 관련 근무경험 필수 공학계열 전기전자전산컴퓨터 전공
+ 2년제 이상 컴퓨터메카트로닉스전자임베디드 공학 전공 경력 310년 이상 임베디드 CC 상태 머신FSM 설계와 구현 가능자 ARM 계열 32비트 마이크로프로세서MCU 경험자 STM TI ESP  기본적인 회로에 관한 지식 신호 처리 및 해석 지식 UART  I2C  SPI  디지털아날로그 센서 개발 지식 온습도 6Axis Limit Touch  Code Analyzer 사용 경험 Code Sonar CSTATCRUN  회로 해석 및 데이터시트를 읽을 수 있으신 분 개발 요구 사항 도출 및 개발 계획 수립 가능자 IAR Compiler 사용 경험
+전기 전자계열 공학 전공자전기 전자 및 SW 계열 관련 전공자관련 자격증 소지자팀원급  1명5년이상ERP영림원 사용가능자동종업계 경력자 우대정수기 관련 개발 유경험자 우대
+ ECAD Tool 이해 및 요구사항규격인증기능에 부합되게 설계부품선정PCB발주 가능 장비를 이용한 보드 기능확인 및 분석가능 PBA 관련 업체와 협업PCB SMT 등 전기차 및 전기차 충전기의 전장배선 경험 전원회로 블루투스 와이파이 회로에 대한 경험 전기차 충전기 테스트 절차 구축 및 생산성 향상에 대한 경험 Altium또는 PADS Pro 운영경험자
+ 학사 이상 경력 7년 이상우대사항 외국어 우수자 영어
+ 학사 이상 자동차 관련 분야 근무 경험 5년 이상 EV  ESS 개발 경험 3년 이상우대사항 해당 분야 경력보유자 자동차 업계 분야 종사자 Battery Pack 양산 개발 유경험자
+ Verilog RTL관련 HW 설계 경력  HW 개발 과정에 대한 전반적인 이해  Project 관리 및 개발 인력 관리 경험 비즈니스 영어 활용 가능자 HWRTL 외에 SWFW에 관련된 이해도가 있는자 SoC chip 개발 경험자
+ 전자공학전기공학제어계측공학정보통신공학컴퓨터공학 관련학과 전공 로봇 센서 제어 전자회로 임베디드 리눅스 마이크로 프로세서 STM 기반 펌웨어 개발 능력 관련 제품의 양산작업이나 최적화를 경험해보신 분 관련 경력 5년 보유 or 석사 학위 융복합2개 전공 업무 경험자전자소프트웨어 기계전자 등 Windows Linux C 프로그래밍 경험이 많으신 분
+ 관련 경력 8년 이상인 분 전기 관련 분야 혹은 그에 준하는 전공자 Firmware part 와의 협업에 적극적인 분 Customer 제품 개발에 관심이 있는 분 300W 급 BLDC 모터 드라이버 설계 차량용 Ethernet 및 CAN 통신 회로 설계 경험 로봇장비 관련 회로 설계 경험 양산 제품 경험 RF Module 및 Antenna 회로 설계
+ 학사 이상 기계공학 자동차공학 전자전기공학 컴퓨터공학 메카트로닉스 전공 자율주행 시스템 구성에 대한 관심 Linux 상 프로그램 개발 능력 자율주행 시스템 구조에 대한 이해 차량용 통신CAN 등에 대한 이해 관련 프로젝트 경험 자율주행 센서 사용 경험
+안테나설계 1 석사 이상 관련 전공 졸업자 2 설계 경험 보유자3 RF 수동소자 설계 지식 보유자4 RF 단품 측정 경험자이력서 또는 포트폴리오에 지원 포지션을 구분하여 기재해 주세요안테나설계1 차량용 radar 안테나 설계 경험자 우대2 다양한 RF 수동소자 설계 경험자 우대3 RF 단품 측정 경험자 우대
+ 관련 분야 경력 5년 이상 업무 개발 관련 교육 이수 및 경력 사항
+ 관련 분야 경력 5년 이상 업무 개발 관련 교육 이수 및 경력 사항
+ RF 업무 개발 경력 위성 통신 분야 경험자 방산업체 경력자 우대
+무선 통신 프로토콜 BLE or Wifi  I2C SPI 등 인터페이스ARM processorSilicon Labs 사 BLE 및 무선 솔루션 개발디버깅 및 데이터 확인용 또는 SW 개발하드웨어 설계 이해
+C  C ProgrammingROS ProgrammingLinux네트워크에 이해센서IMU GPS BLE통신 Serial 통신 Arduino Raspberry Pi회로 이해
+공통사항  Verilog  SystemVerilog를 이용한 하드웨어 설계 경험 디지털 설계에 대한 이해주니어 엔지니어 9년 이하 컴퓨터 구조Computer Architecture에 대한 이해 C 혹은 Python등의 프로그래밍 언어 사용 가능시니어 엔지니어 10년 이상  SystemVerilog을 이용한 기능 검증 경험 기본적인 버스 프로토콜AMBA or OCP or Tilelink에 대한 이해 SoC에 대한 이해 혹은 경험 Frontend Design Flow합성 STA  Lint etc에 대한 경험 OnChip Interconnect에 대한 이해경험 UVM 이나 assertionbased verification ABV를 이용한 검증 경험 구성 가능한 RTL 설계 경험 C 혹은 다른 프로그래밍 언어를 이용한 하드웨어 기능성능 모델링 경험 규모가 있는 SoC를 만들어 본 경험 영어 대화 및 이메일 교환에 무리가 없으면 좋습니다
+ 지식 디지털 하드웨어 디자인의 원리 시스템 구조에 대한 지식 의사 소통  한국어 및 영어를 이용한 문서와 구두를 통한 기술 주제 논의 경험  o VerilogHDLVHDLSystemVerilog를 이용한 RTL 설계 및 검증 환경 RTL  testbench design with VerilogHDLVHDLSystemVerilogo Shell scriptpython 을 이용한 tool test 환경 생성o시뮬레이션 합성 등을 위한 EDA 툴 사용 for IESVCS synthesis for DC and others for lintCDCformality 반도체 및 컴퓨터 전기전자 학과 우대 칩 설계 경험자 다양한 모듈을 경험한 분 Onchip Bus protocolAMBA AXI APB AHB에 대한 이해가 있는 분 DDR SDRAM 에 대한 이해가 있는 분 DDR PHY Interface DFI에 대한 이해가 있는 분
+경력 2년 이상의 RTL 설계 경험 Verilog or System Verilog해외 여행에 결격 사유가 없으신 분필요 스킬Digital Design Concept에 대한 이해          Clock Domain Crossing Low Power Design TimingArea Optimized Design etcTestbench development and debugging skillScript Language Python Tcl etc직무 관련 knowledge 보유자 우대         Onchip Bus Protocol AMBA AXI APB AHB         DDR SDRAM DDR PHY Interface DFI DDR PHY         CC programming직무 관련 Tool 경험자 우대          UVM Design Compiler Prime Time LintCDC checkerISO 26262 관련 경험자 우대Gem5 툴 사용 및 benchmark 운영 관련 경험자 우대취업 보호 대상자 보훈 장애 등는 관련 법령에 의거하여 우대
+ 경력  5년이상 대졸이상 전자전기전파통신 관련 전공자 RF 시스템 설계 및 양산 유경험자 PADS 회로 설계 프로그램 사용 가능자 RF Simulation Tool 사용 유경험자 자동차 전장 제품 개발 및 양산 유경험자 IoT  ADAS 관련 제품 개발 및 양산 유경험자 컴퓨터 활용 및 문서 작성 능력 우수자 기초적인 영어 작문 회화 독해가 가능한 분
+ 경력  10년이상 대졸이상 전자전기전파통신 관련 전공자 RF 시스템 설계 및 양산 유경험자 PADS 회로 설계 프로그램 사용 가능자 RF 제품 개발 및 양산 유경험자 자동차 전장 제품 개발 및 양산 유경험자 IoT  ADAS 관련 제품 개발 및 양산 유경험자 컴퓨터 활용 및 문서 작성 능력 우수자 기초적인 영어 작문 회화 독해가 가능한 분
+ 경력  무관 신입도 지원 가능사원 팀원급 근무 일시  주 5일   일요일목요일 or 토요일수요일 09001800 인근 거주자 운전 가능자 해당 직무 근무경험

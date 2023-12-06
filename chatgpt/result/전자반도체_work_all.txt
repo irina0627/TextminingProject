@@ -1,0 +1,48 @@
+연구소 원천기술 개발 실무초음파 센서 모듈 개발정부과제 프로젝트 운영 실무센서 모듈 설계 및 개발스킬AutoCAD CAD Firmware
+ 반도체장비EFEMLPMTM 전장설계 거래처대응
+ 반도체장비EFEMLPMTM 전장설계 거래처대응
+ 아날로그 회로설계 Digital 회로설계
+ ESD Circuit DesignLayout FullChip ESD Analysis Design Guide 
+ LED Driver IC 특성 평가
+  LED DisplayBacklight Driver IC 개발
+  OLED Display Driver IC 개발Mobile소형Panel대형
+ Display TCONDriver IC 용 Gbps급 HighSpeed Serial Interface TxRx PHY Circuit 개발
+하기 
+하기 
+연구소 원천기술 개발 실무초음파 센서 모듈 개발정부과제 프로젝트 운영 실무센서 모듈 설계 및 개발스킬AutoCAD CAD Firmware
+기술 지원 
+ Global TopTier 반도체 기업 및 연구소에 제공될 AI기반 반도체 소자 모델링 솔루션 개발에 참여 User입장에서 자사 솔루션 제품기획성능평가 및 AI 개발팀 engineer들과의 업무 조율 TCADSPICE 등 simulation을 통한 반도체 소자회로 data 생성분석과 database management 반도체 소자모델링 분야 논문 기획 및 작성
+미용 의료기기 연구소 연구보조연구보조 각종 실험 및 동작 검증 샘플링 검수 등문서업무 개발 산출물 관리 및 문서작성 연구노트 작성 등
+연구소 원천기술 개발 실무초음파 센서 모듈 개발정부과제 프로젝트 운영 실무센서 모듈 설계 및 개발스킬AutoCAD CAD Firmware
+기술 지원 
+자동차 전자 분야 열 유동 CFD   해석 기술지원 및 엔지니어링   컨설팅 프로젝트 수행근무부서 및 직급직책근무부서  기술연구소직급  프로
+자동차 전자 분야 열 유동 CFD   해석 기술지원 및 엔지니어링   컨설팅 프로젝트 수행근무부서 및 직급직책근무부서  기술연구소직급  프로
+  영상처리 동영상 압축 알고리즘 및 성능 분석
+   화질평가 계획 수립      o 알고리즘기능간 비교      o 경쟁사 제품과 비교      o 화질 외 성능속도 전력소모 등의 메트릭 포함될 수 있음   화질평가를 위한 데이터수집   화질평가시스템 고도화 및 신규 구축   화질평가결과분석 및 레포팅   제품기획 다른 개발직군과의 긴밀한 협업   화질평가와 관련된 학계산업계 연구동향 분석 및 제안활동
+반도체LCD자동화설비 Software 제어 개발 업무로봇 부분 관련 Software 시퀀스 제어 개발 업무
+ 반도체 자동화 물류 장비 설계 개발  기타 자동화 장비 설계 개발  InLine 자동화 장비 설계 개발 
+SMPS 개발
+경력  무관 신입도 지원 가능HW관련 개발 가능자Electronic Hardware 설계 경험300W 급 SMPS 설계경험DCAC 인버터 경험
+ Probe Test  Final Test Program setup Probe Card  Load Board 회로도 작성 Test Data 정리  분석 Histogram  CPK 저수율 분석 RMA 분석 등
+camera 영상 tuning
+ 센서 펌웨어 프로그래밍 센서제품 회로설계 샘플제작 및 디버스킬 Auto CAD CAD Firmware
+ 제품 공정 설계 및 Flow Chat 작성 공정 비교분석 예산 검토 Design For Manufacturing 분석 및 Feed Back Control Plan 작성 PFMEA작성 공정 Capa예상 및 분석 생산라인 제작 진행 매니징  초기 공정 안정화 및 공정 개선 고객사 문서 대응 생산기 술 관련 자료 작성
+ 제품설계 회로설계 샘플 제작 및 테스트
+ 압력 Dust센서 fw 프로그래밍 샘플 테스트 및 디버깅
+ 센서제품설계 회로설계 샘플 제작 및 디버깅
+ MCU FW 개발STM32  AVR  IC 통신 모터 등 다양한 Interface 제어 개발 제품 펌웨어 개발 및 관리 개발 프로젝트 인증 대응SW 문서 작업 개발 제품 개선 및 안정화 외주 업체 관리프로젝트 관리 월 2회 개발회의 및 자문단 회의 진행
+컴퓨터비전 및 영상처리 응용 SW 개발 영상 신호 처리 알고리즘 개발 Motion artifact 개선 Image reconstruction 알고리즘 개선
+초소형 의료기기 아날로그 보드 및 HW 개발 RF 신호ADDA 회로 설계 및 노이즈 저감 Micom application 및 시스템 설계 등
+ Analog PHY 설계 Memory LPDDR45 GDDR67 NAND PHY IP 설계 고속 Transceiver EqualizerCTLE DFE 설계 PLLDLL 설계
+암수술용 초소형 공초점 현미경 개발 압전소자 기반 공진구동 엑츄에이터 설계구동 해석 초소형 프로브 패키징 개발
+의료 영상 기반 진단 보조 AI 솔루션 개발 학습용 DB 구축 솔루션 개발 진단 AI 알고리즘 개발 AI 솔루션 Implementation 의료 AI journalconference 논문 투고 및 발표
+광섬유 기반 광학 현미경 시스템 개발 공초점 형광 현미경 광학계 개발 광효율 및 광노이즈 개선 이미지 품질 및 해상도 개선 기타 광학 현미경 시스템 개발
+ 반도체장비EFEMLPMTM 전장설계 거래처대응
+ 아날로그 회로설계 Digital 회로설계
+ ESD Circuit DesignLayout FullChip ESD Analysis Design Guide 
+ LED Driver IC 특성 평가
+  LED DisplayBacklight Driver IC 개발
+  OLED Display Driver IC 개발Mobile소형Panel대형
+ Display TCONDriver IC 용 Gbps급 HighSpeed Serial Interface TxRx PHY Circuit 개발
+하기 
+하기 

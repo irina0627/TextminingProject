@@ -16,7 +16,7 @@ logging.set_verbosity_error()
 
 path = "./reviewdataset/review_posneg_theme_byjob/"
 file_list = os.listdir(path)
-jobs = ['개발','기획경영','마케팅시장조사']
+jobs = ['기획경영','개발','마케팅시장조사']
 for filename in file_list:
     jobname = filename.split('_')[0]
     if len(jobs)==0:

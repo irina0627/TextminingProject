@@ -64,6 +64,7 @@ def review_sentiment(keyword, job):
         prediction_new = [item[1].item() for item in prediction]
 
         for pred in prediction_new:
+            second_values.extend([item[1].item() for item in prediction])
             if pred >= 0.5:
                 positive_value.extend([item[1].item() for item in prediction])
             else:

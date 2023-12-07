@@ -1,0 +1,1 @@
+리뷰: 학력 대졸, 5년 이상 Python 및 Linux 사용, Docker, Kubernetes 사용 경험, 해외여행 결격사유 없음, kubeflow, Airflow, MLflow 사용 경험, LLM fine tune 경험.

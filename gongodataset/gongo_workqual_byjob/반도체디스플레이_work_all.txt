@@ -1,0 +1,31 @@
+ 반도체장비EFEMLPMTM 전장설계 거래처대응
+2차전지 PLC제어
+자동화설비 기계조립 자동화설비 셋업 고객사 PLC 프로그램 AS 대응 업무설비 JobChange 및 개조 공사시PLC 프로그램 변경 업무 
+생산팀 정규직 2명 모집
+프로젝트 범위를 설정하고 추진 목표 계획일정 추진 체계방법론 등 소요 예산 등 프로젝트 수행에 필요한 제반 계획을 수립프로젝트 진행 상황을 지속적으로 모니터링 및 이에 관련하여 정기적으로 보고문제점 발견 해결책 제시 등고객사 관리  프로젝트 및 고객사와의 관계 관리 제반 업무를 수행영업 마케팅 재무 및 엔지니어링팀들과 협력하여 효율적으로 프로젝트를 관리하고 진행
+SystemonChip Physical  Implementation 시스템 반도체 Frontend 개발 
+SystemonChip Physical Design 시스템 반도체 Backend 개발 
+기구 엔지니어  반도체 디스플레이 등 최첨단장비 제작 및 SETUP제어 엔지니어  반도체디스플레이 등 최첨단장비 프로그램 개발 및 SETUP
+기구 엔지니어  반도체 디스플레이 등 최첨단장비 제작 및 SETUP제어 엔지니어  반도체디스플레이 등 최첨단장비 프로그램 개발 및 SETUP
+ 품질보증팀내 생산기술 업무 양산이관 업무 공정불량 분석 외주업체 작업지도
+ DRAM PHY Layout MemoryLPDDR45 GDDR67 NAND PHY Layout High Speed Transceiver Layout
+ Application  Memory LPDDR54 HBM3 GDDR6 NAND Interface PHY Design PCB Evaluate DDR PHY chip Test automation SIPI
+ Top architect Memory LPDDR54 HBM3 GDDR6 NAND Interface PHY Architecting Digital Engineer RTL 설계 Synthesis DFT STAStatic Timing Analysis PlaceRoute PHY modeling MPW Evaluation Test automation필요스킬 System Verilog Synthesis DFT STA PlaceRoute Equalizer
+ 반도체장비EFEMLPMTM 전장설계 거래처대응
+ 아날로그 회로설계 Digital 회로설계
+ ESD Circuit DesignLayout FullChip ESD Analysis Design Guide 
+ LED Driver IC 특성 평가
+  LED DisplayBacklight Driver IC 개발
+  OLED Display Driver IC 개발Mobile소형Panel대형
+ Display TCONDriver IC 용 Gbps급 HighSpeed Serial Interface TxRx PHY Circuit 개발
+하기 
+하기 
+ 반도체장비EFEMLPMTM 전장설계 거래처대응
+ 아날로그 회로설계 Digital 회로설계
+ ESD Circuit DesignLayout FullChip ESD Analysis Design Guide 
+ LED Driver IC 특성 평가
+  LED DisplayBacklight Driver IC 개발
+  OLED Display Driver IC 개발Mobile소형Panel대형
+ Display TCONDriver IC 용 Gbps급 HighSpeed Serial Interface TxRx PHY Circuit 개발
+하기 
+하기 

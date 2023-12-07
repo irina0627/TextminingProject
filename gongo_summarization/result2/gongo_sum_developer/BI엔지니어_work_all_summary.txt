@@ -1,0 +1,1 @@
+주행계약 관련 지표 생성 및 제공, Data engineering, Datawarehouse 및 Data mart 스키마 설계, Hadoop 기반 DW 구축, Power BI 활용한 BI Dashboard 개발

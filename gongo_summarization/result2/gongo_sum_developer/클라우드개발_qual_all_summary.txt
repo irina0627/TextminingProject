@@ -1,0 +1,1 @@
+Java 11 이상 개발 경험, SpringBoot를 이용한 Web Application 개발 경험, RDBMS MySQL/PostgreSQL 경험, ElasticSearch Logstash 경험, Big data 처리 경험 *

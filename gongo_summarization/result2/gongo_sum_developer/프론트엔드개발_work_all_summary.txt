@@ -1,0 +1,1 @@
+리뷰: 클라우드 네이티브 개발, MSA 프레임워크 개발, 클라우드 서비스 개발, PaaS 기반의 통합 클러스터 관리 개발, CDS임상의사결정지원 시스템 개발, 하드웨어 설계 방법론, 레어데이터 Fullstack Engineer 개발, BackOffice와 Billing 운영 개발, JAVA 개발 및 Project Management, VAN 이중화 개발, React와 Typescript를 이용한 개발, PHP Backend 및 Frontend 개발, AI 제품을 위한 SaaS Platform 개발, 드로니아 서비스 웹 개발, 클라우드 도메인에 최적화된 AI 연구 개발, 신규 기능 개발, IoT 관리 서비스 개발.

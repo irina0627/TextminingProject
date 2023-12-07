@@ -1,0 +1,1 @@
+Java 11 이상 개발 경험, SpringBoot를 이용한 Web Application 개발 경험, JPA MyBatis 사용 경험, RDBMS MySQL PostgresSQL 경험, ElasticSearch Logstash 사용 경험, Big data 처리 경험, 데몬 배치 개발 경험, public cloud 환경 경험, 프로젝트 리딩 또는 관리 경험, API와 데이터 모델 설계 경험, 코드리뷰에 거부감이 없는 경험, 문제해결과 개선 의지, 헬스케어 도메인 경험, MLOps 경험, 협업툴 사용 경험.

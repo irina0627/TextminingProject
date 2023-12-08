@@ -13,7 +13,7 @@ kkma = Kkma()
 from collections import Counter
 
 # load dataset
-review = pd.read_csv('.\\reviewdataset\\review_raw.csv')
+review = pd.read_csv('./reviewdataset/review_raw.csv')
 review[:3] # check
 
 # drop na
@@ -74,6 +74,5 @@ corpus = [dictionary.doc2bow(counts) for counts in count_lists]
 lda_model = models.LdaModel(corpus, num_topics=4, id2word=dictionary)
 
 # Print the topics and associated words
-topics = lda_model.print_topics(num_words=5)
-for topic in topics:
-    print(topic)
+for i in range(10):
+    print(lda_model.print_topics()[i])
